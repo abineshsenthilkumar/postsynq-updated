@@ -183,6 +183,64 @@ function prepLinks(doc, key) {
   return n
 }
 
+// ---------------------------------------------------------- founder -------
+// About page founder statement ("Quote Video" section). In Framer the photo is a
+// video component (thumbnail + play button + dark gradient) and the avatar is a
+// placeholder. Here the photo is a plain static image of the founder (stored in
+// public/assets/team/, not on Framer's CDN), the avatar is the same photo cropped
+// to the face, and the name is the full name. Quote, layout, sizes, corner radius,
+// badge and entrance animation are left exactly as Framer renders them.
+const FOUNDER = {
+  name: "Preetham Kotha",
+  shortName: "Preetham", // the name as it appears in the Framer design
+  photo: "/assets/team/preetham-kotha.webp", // 1254x1254, from preetham-kotha.png (original)
+  photo640: "/assets/team/preetham-kotha-640.webp",
+  alt: "Preetham Kotha, founder of AtSpeed Innovations, speaking into a microphone",
+  // Face-centred crop of the square photo for the small circular avatar.
+  avatarCrop: "transform:scale(2);transform-origin:60% 18%",
+}
+function prepFounder(doc) {
+  let n = 0
+  for (const section of doc.querySelectorAll("#main section[data-framer-name='Quote Video']")) {
+    // Name: "Preetham" -> "Preetham Kotha" (same element, same text style).
+    for (const h of section.querySelectorAll("[data-framer-name='Author'] h1,[data-framer-name='Author'] h2,[data-framer-name='Author'] h3,[data-framer-name='Author'] h4,[data-framer-name='Author'] h5,[data-framer-name='Author'] h6,[data-framer-name='Author'] p")) {
+      const t = [...h.childNodes].find(c => c.nodeType === 3 && c.nodeValue.trim() === FOUNDER.shortName)
+      if (t) { t.nodeValue = t.nodeValue.replace(FOUNDER.shortName, FOUNDER.name); n++ }
+    }
+    // Avatar: founder photo cropped to the face inside the existing circle; the
+    // PostSynq badge ("Company") next to it is untouched.
+    for (const img of section.querySelectorAll("[data-framer-name='Avatar'] > [data-framer-background-image-wrapper] > img")) {
+      img.setAttribute("src", FOUNDER.photo640)
+      img.removeAttribute("srcset"); img.removeAttribute("sizes")
+      img.setAttribute("width", "640"); img.setAttribute("height", "640")
+      img.setAttribute("alt", FOUNDER.name)
+      img.setAttribute("style", `${img.getAttribute("style") || ""};${FOUNDER.avatarCrop}`)
+      const wrap = img.parentElement
+      wrap.setAttribute("style", `${wrap.getAttribute("style") || ""};overflow:hidden`)
+      n++
+    }
+    // Photo: the video component becomes a static, non-interactive image.
+    for (const box of section.querySelectorAll("[data-framer-name='Video']")) {
+      box.setAttribute("data-framer-name", "Photo")
+      if (box.getAttribute("name") === "Video") box.setAttribute("name", "Photo")
+      for (const v of box.querySelectorAll("[data-highlight], [tabindex]")) { v.removeAttribute("data-highlight"); v.removeAttribute("tabindex") }
+      for (const v of [box, ...box.querySelectorAll("*")]) {
+        if (v.getAttribute("name") === "Video") v.setAttribute("name", "Photo")
+        if (/\bframer-v-/.test(v.getAttribute("class") || "")) v.setAttribute("style", `${v.getAttribute("style") || ""};cursor:auto`)
+      }
+      box.querySelectorAll("[data-framer-name='Play Button'], [data-framer-name='Overlay']").forEach(e => e.remove())
+      for (const img of box.querySelectorAll("[data-framer-background-image-wrapper] > img")) {
+        img.setAttribute("src", FOUNDER.photo)
+        img.setAttribute("srcset", `${FOUNDER.photo640} 640w, ${FOUNDER.photo} 1254w`)
+        img.setAttribute("width", "1254"); img.setAttribute("height", "1254")
+        img.setAttribute("alt", FOUNDER.alt)
+      }
+      n++
+    }
+  }
+  return n
+}
+
 let usesLink = false, usesToggle = false, usesFooter = false
 function toJsx(node, ind, inToggle = false) {
   const pad = "  ".repeat(ind)
@@ -594,6 +652,8 @@ for (const [key, name] of Object.entries(PAGES)) {
   if (scrollReveal) console.log(`${key}: ${scrollReveal} scroll-reveal paragraphs`)
   prepTickers(doc)
   prepHover(doc)
+  const founder = prepFounder(doc)
+  if (founder) console.log(`${key}: founder statement updated (${founder} changes)`)
   const relinked = prepLinks(doc, key)
   const toggles = markToggles(doc, key)
   // One page <h1>: the first heading of the page (and its copies in the other

@@ -477,8 +477,8 @@ export default function AboutPage() {
             <div className="framer-f04214" data-framer-name="Author">
               <div className="ssr-variant">
                 <div className="framer-ymc96a" data-framer-name="Avatar">
-                  <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                    <img decoding="async" loading="lazy" width="1792" height="2368" sizes="(min-width: 1280px) 46px, (min-width: 810px) and (max-width: 1279.98px) 32px, (max-width: 809.98px) 32px" srcSet={"https://framerusercontent.com/images/6QiHrUex2XEVypAiZReONkj1oJY.jpg?scale-down-to=1024&width=1792&height=2368 774w,https://framerusercontent.com/images/6QiHrUex2XEVypAiZReONkj1oJY.jpg?scale-down-to=2048&width=1792&height=2368 1549w,https://framerusercontent.com/images/6QiHrUex2XEVypAiZReONkj1oJY.jpg?width=1792&height=2368 1792w"} src={"https://framerusercontent.com/images/6QiHrUex2XEVypAiZReONkj1oJY.jpg?width=1792&height=2368"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
+                  <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0, overflow: "hidden" } as CSSProperties} data-framer-background-image-wrapper="true">
+                    <img decoding="async" loading="lazy" width="640" height="640" src="/assets/team/preetham-kotha-640.webp" alt="Preetham Kotha" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover", transform: "scale(2)", transformOrigin: "60% 18%" } as CSSProperties} />
                   </div>
                   <div className="framer-1e2fuf9" data-framer-name="Company">
                     <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
@@ -490,7 +490,7 @@ export default function AboutPage() {
               <div className="framer-1jusbef" data-framer-name="Text">
                 <div className="framer-1gdfod0" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                   <h6 dir="auto" style={{ "--font-selector": "R0Y7T25lc3QtNTAw", "--framer-font-family": "\"Onest\"", "--framer-font-size": "14px", "--framer-font-style": "normal", "--framer-font-variation-axes": "normal", "--framer-font-weight": "500", "--framer-line-height": "1.4em", "--framer-text-color": "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))" } as CSSProperties} className="framer-text">
-                    Preetham
+                    Preetham Kotha
                   </h6>
                 </div>
                 <div className="framer-mka5gw" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
@@ -502,34 +502,11 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="ssr-variant">
-            <div className="framer-1uy5p9q-container" data-framer-name="Video" data-name="Video">
-              <div data-name="Video" className="framer-p936g framer-5drrk5 framer-v-5drrk5" data-framer-name="Variant 1" data-highlight="true" tabIndex={0} style={{ height: "100%", width: "100%", borderBottomLeftRadius: "16px", borderBottomRightRadius: "16px", borderTopLeftRadius: "16px", borderTopRightRadius: "16px" } as CSSProperties}>
+            <div className="framer-1uy5p9q-container" data-framer-name="Photo" data-name="Photo">
+              <div data-name="Photo" className="framer-p936g framer-5drrk5 framer-v-5drrk5" data-framer-name="Variant 1" style={{ height: "100%", width: "100%", borderBottomLeftRadius: "16px", borderBottomRightRadius: "16px", borderTopLeftRadius: "16px", borderTopRightRadius: "16px", cursor: "auto" } as CSSProperties}>
                 <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                  <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max(max((min(100vw, 1200px) - 40px) / 1.7, 1px), max((min(100vw, 1200px) - 72px) / 4, 1px)), (min-width: 810px) and (max-width: 1279.98px) max(max((min(100vw - 48px, 1200px) - 40px) / 1.7, 1px), max((min(100vw - 48px, 1200px) - 48px) / 3, 50px)), (max-width: 809.98px) max(min(100vw - 48px, 1200px), max((min(100vw - 48px, 1200px) - 16px) / 2, 50px))" srcSet={"https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?width=1254&height=1254 1254w"} src={"https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?width=1254&height=1254"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
+                  <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max(max((min(100vw, 1200px) - 40px) / 1.7, 1px), max((min(100vw, 1200px) - 72px) / 4, 1px)), (min-width: 810px) and (max-width: 1279.98px) max(max((min(100vw - 48px, 1200px) - 40px) / 1.7, 1px), max((min(100vw - 48px, 1200px) - 48px) / 3, 50px)), (max-width: 809.98px) max(min(100vw - 48px, 1200px), max((min(100vw - 48px, 1200px) - 16px) / 2, 50px))" srcSet="/assets/team/preetham-kotha-640.webp 640w, /assets/team/preetham-kotha.webp 1254w" src="/assets/team/preetham-kotha.webp" alt="Preetham Kotha, founder of AtSpeed Innovations, speaking into a microphone" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
                 </div>
-                <div className="framer-1hccuqf" data-framer-name="Play Button" style={{ backgroundColor: "var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255))", borderBottomLeftRadius: "48px", borderBottomRightRadius: "48px", borderTopLeftRadius: "48px", borderTopRightRadius: "48px" } as CSSProperties}>
-                  <div className="framer-72e8mv" data-framer-name="Icon">
-                    <div className="framer-1vn6bqf-container">
-                      <div style={{ display: "contents" } as CSSProperties}>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))", flexShrink: 0 } as CSSProperties}>
-                          <g color="var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))">
-                            <path d="M240,128a15.74,15.74,0,0,1-7.6,13.51L88.32,229.65a16,16,0,0,1-16.2.3A15.86,15.86,0,0,1,64,216.13V39.87a15.86,15.86,0,0,1,8.12-13.82,16,16,0,0,1,16.2.3L232.4,114.49A15.74,15.74,0,0,1,240,128Z" />
-                          </g>
-                        </svg>
-                      </div>
-                    </div>
-                    <div className="framer-6f9e8k-container">
-                      <div style={{ display: "contents" } as CSSProperties}>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))", flexShrink: 0 } as CSSProperties}>
-                          <g color="var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(29, 32, 32))">
-                            <path d="M240,128a15.74,15.74,0,0,1-7.6,13.51L88.32,229.65a16,16,0,0,1-16.2.3A15.86,15.86,0,0,1,64,216.13V39.87a15.86,15.86,0,0,1,8.12-13.82,16,16,0,0,1,16.2.3L232.4,114.49A15.74,15.74,0,0,1,240,128Z" />
-                          </g>
-                        </svg>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="framer-ea426c" data-framer-name="Overlay" style={{ background: "linear-gradient(180deg, rgba(44, 48, 48, 0) 0%, rgba(47, 48, 48, 0.8) 100%)", borderBottomLeftRadius: "16px", borderBottomRightRadius: "16px", borderTopLeftRadius: "16px", borderTopRightRadius: "16px", opacity: 0.4 } as CSSProperties} />
               </div>
             </div>
           </div>
