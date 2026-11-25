@@ -10,3 +10,8 @@
 [build.environment]
   NODE_VERSION = "22"
   NEXT_TELEMETRY_DISABLED = "1"
+
+# Netlify's Next.js runtime: turns the .next build into CDN pages + functions.
+# Declared explicitly because automatic detection did not switch it on for this project.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

@@ -13,6 +13,10 @@
   NODE_VERSION = "22"
   NEXT_TELEMETRY_DISABLED = "1"
 
+# Netlify's Next.js runtime (CDN pages + functions); declared explicitly.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
 # Environment variables to set in the Netlify UI (never commit values):
 #   NEWSLETTER_WEBHOOK_URL  receives footer newsletter sign-ups; unset = the form
 #                           says sign-up is unavailable (never a fake success).
