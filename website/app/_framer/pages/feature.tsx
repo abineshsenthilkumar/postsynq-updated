@@ -3,6 +3,7 @@ import type { CSSProperties } from "react"
 import Link from "next/link"
 import Footer from "../Footer"
 import { OFFICIAL_LINKS } from "../../../lib/links"
+import CreateOncePublishEverywhere from "../../_components/features/CreateOncePublishEverywhere"
 
 export default function FeaturePage() {
   return (
@@ -81,136 +82,36 @@ export default function FeaturePage() {
           <div data-framer-background-image-wrapper="true" style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0, backgroundImage: "url(https://framerusercontent.com/images/wGAHOWhVswEtWkOKTJN6s2CW0.svg?width=96&height=96)", backgroundRepeat: "repeat", backgroundPosition: "left top", border: 0, backgroundSize: "15.5px auto" } as CSSProperties} />
         </div>
       </section>
-      <section className="framer-1f7e7ry" data-framer-name="Features Small">
-        <div className="framer-3yerj6" data-framer-name="Container">
-          <div className="framer-nfpzne" data-framer-name="Title">
-            <div className="framer-i9a254" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-              <p className="framer-text framer-styles-preset-h286f8" data-styles-preset="Kx6I4vq_h" dir="auto">
-                {"create & publish"}
-              </p>
-            </div>
-            <div className="framer-oxec6y" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-              <h3 className="framer-text framer-styles-preset-12lj5ox" data-styles-preset="YckFIlg3V" dir="auto" style={{ "--framer-text-alignment": "center" } as CSSProperties}>
-                Create once, publish everywhere
-              </h3>
-            </div>
-          </div>
-          <div className="framer-uqbyfa" data-framer-name="Content">
-            <div className="framer-1okoaab" data-framer-name="Item">
-              <div className="ssr-variant">
-                <div className="framer-8npqk0" data-framer-name="Image">
-                  <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                    <img decoding="async" width="570" height="680" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 60px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 32px) / 2, 50px), (max-width: 809.98px) min(100vw - 48px, 1200px)" srcSet={"https://framerusercontent.com/images/GX4lRdiQbh35yrEWyjh8CzUiizs.png?width=570&height=680 570w"} src={"https://framerusercontent.com/images/GX4lRdiQbh35yrEWyjh8CzUiizs.png?width=570&height=680"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
-                  </div>
+      <CreateOncePublishEverywhere>
+        <div className="ssr-variant">
+          <div className="framer-1iw2cpp-container">
+            <a href={OFFICIAL_LINKS.app.signup} className="framer-btOAz framer-fsVbZ framer-800pdp framer-v-800pdp framer-ewf63j" data-framer-name="Primary" style={{ "--border-bottom-width": "0px", "--border-color": "rgba(0, 0, 0, 0)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", backgroundColor: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 35, 35))", height: "100%", borderBottomLeftRadius: "12px", borderBottomRightRadius: "12px", borderTopLeftRadius: "12px", borderTopRightRadius: "12px" } as CSSProperties} data-hover="">
+              <div className="framer-1p1703b-container">
+                <div style={{ display: "contents" } as CSSProperties}>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="rgb(255, 255, 255)" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "rgb(255, 255, 255)", color: "rgb(255, 255, 255)", flexShrink: 0 } as CSSProperties}>
+                    <g color="rgb(255, 255, 255)">
+                      <path d="M223.85,47.12a16,16,0,0,0-15-15c-12.58-.75-44.73.4-71.41,27.07L132.69,64H74.36A15.91,15.91,0,0,0,63,68.68L28.7,103a16,16,0,0,0,9.07,27.16l38.47,5.37,44.21,44.21,5.37,38.49a15.94,15.94,0,0,0,10.78,12.92,16.11,16.11,0,0,0,5.1.83A15.91,15.91,0,0,0,153,227.3L187.32,193A15.91,15.91,0,0,0,192,181.64V123.31l4.77-4.77C223.45,91.86,224.6,59.71,223.85,47.12ZM74.36,80h42.33L77.16,119.52,40,114.34Zm74.41-9.45a76.65,76.65,0,0,1,59.11-22.47,76.46,76.46,0,0,1-22.42,59.16L128,164.68,91.32,128ZM176,181.64,141.67,216l-5.19-37.17L176,139.31Zm-74.16,9.5C97.34,201,82.29,224,40,224a8,8,0,0,1-8-8c0-42.29,23-57.34,32.86-61.85a8,8,0,0,1,6.64,14.56c-6.43,2.93-20.62,12.36-23.12,38.91,26.55-2.5,36-16.69,38.91-23.12a8,8,0,1,1,14.56,6.64Z" />
+                    </g>
+                  </svg>
                 </div>
               </div>
-              <div className="framer-8q7wu" data-framer-name="Text">
-                <div className="framer-wtn3xv" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <h6 className="framer-text framer-styles-preset-tg2l96" data-styles-preset="U7lSdSupu" dir="auto">
-                    Approve, then we post
-                  </h6>
+              <div className="framer-cvgrjz" data-framer-name="Content">
+                <div className="framer-1f0hpyf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
+                  <p className="framer-text framer-styles-preset-1mjgjnj" data-styles-preset="J8wG5rgEX" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255)))" } as CSSProperties}>
+                    Start free trial
+                  </p>
                 </div>
-                <div className="framer-cs9zxb" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties}>
-                    Review every post Synq AI prepares. Nothing goes live without your OK.
+                <div className="framer-1pmqns5" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
+                  <p className="framer-text framer-styles-preset-1mjgjnj" data-styles-preset="J8wG5rgEX" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255)))" } as CSSProperties}>
+                    Start free trial
                   </p>
                 </div>
               </div>
-            </div>
-            <div className="framer-zcvb0a" data-framer-name="Item">
-              <div className="ssr-variant">
-                <div className="framer-1a5719a" data-framer-name="Image">
-                  <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                    <img decoding="async" width="570" height="680" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 60px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 32px) / 2, 50px), (max-width: 809.98px) min(100vw - 48px, 1200px)" srcSet={"https://framerusercontent.com/images/in8kfOW4Yoiskk3rcSQu8hBo.png?width=570&height=680 570w"} src={"https://framerusercontent.com/images/in8kfOW4Yoiskk3rcSQu8hBo.png?width=570&height=680"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
-                  </div>
-                </div>
-              </div>
-              <div className="framer-1v1vvnv" data-framer-name="Text">
-                <div className="framer-1cta55k" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <h6 className="framer-text framer-styles-preset-tg2l96" data-styles-preset="U7lSdSupu" dir="auto">
-                    Ready-made templates
-                  </h6>
-                </div>
-                <div className="framer-1c8gz51" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties}>
-                    Carousels and posts already designed. Just add your details.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="framer-1g44cqa" data-framer-name="Item">
-              <div className="ssr-variant">
-                <div className="framer-1lzp7d2" data-framer-name="Image">
-                  <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                    <img decoding="async" loading="lazy" width="570" height="680" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 60px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 32px) / 2, 50px), (max-width: 809.98px) min(100vw - 48px, 1200px)" srcSet={"https://framerusercontent.com/images/iW6qUCWf9JLGs6XTDVdrD3ebc1g.png?width=570&height=680 570w"} src={"https://framerusercontent.com/images/iW6qUCWf9JLGs6XTDVdrD3ebc1g.png?width=570&height=680"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
-                  </div>
-                </div>
-              </div>
-              <div className="framer-sm3l8z" data-framer-name="Text">
-                <div className="framer-15tw09x" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <h6 className="framer-text framer-styles-preset-tg2l96" data-styles-preset="U7lSdSupu" dir="auto">
-                    Post everywhere in one go
-                  </h6>
-                </div>
-                <div className="framer-1jkksma" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties}>
-                    Publish to every connected platform at once, customised for each.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="framer-1bfu4f3" data-framer-name="Feature">
-              <div className="ssr-variant">
-                <div className="framer-auox10" data-framer-name="Image">
-                  <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                    <img decoding="async" loading="lazy" width="570" height="680" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 60px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 32px) / 2, 50px), (max-width: 809.98px) min(100vw - 48px, 1200px)" srcSet={"https://framerusercontent.com/images/fRJsTQ7klkHCiW4UOJUIB2arlRc.png?width=570&height=680 570w"} src={"https://framerusercontent.com/images/fRJsTQ7klkHCiW4UOJUIB2arlRc.png?width=570&height=680"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
-                  </div>
-                </div>
-              </div>
-              <div className="framer-1k75sl9" data-framer-name="Text">
-                <div className="framer-17yugih" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <h6 className="framer-text framer-styles-preset-tg2l96" data-styles-preset="U7lSdSupu" dir="auto">
-                    {"Vectorize & customise"}
-                  </h6>
-                </div>
-                <div className="framer-xulf37" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
-                  <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties}>
-                    Turn any post into an editable vector and change it your way.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="ssr-variant">
-            <div className="framer-1iw2cpp-container">
-              <a href={OFFICIAL_LINKS.app.signup} className="framer-btOAz framer-fsVbZ framer-800pdp framer-v-800pdp framer-ewf63j" data-framer-name="Primary" style={{ "--border-bottom-width": "0px", "--border-color": "rgba(0, 0, 0, 0)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", backgroundColor: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 35, 35))", height: "100%", borderBottomLeftRadius: "12px", borderBottomRightRadius: "12px", borderTopLeftRadius: "12px", borderTopRightRadius: "12px" } as CSSProperties} data-hover="">
-                <div className="framer-1p1703b-container">
-                  <div style={{ display: "contents" } as CSSProperties}>
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="rgb(255, 255, 255)" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "rgb(255, 255, 255)", color: "rgb(255, 255, 255)", flexShrink: 0 } as CSSProperties}>
-                      <g color="rgb(255, 255, 255)">
-                        <path d="M223.85,47.12a16,16,0,0,0-15-15c-12.58-.75-44.73.4-71.41,27.07L132.69,64H74.36A15.91,15.91,0,0,0,63,68.68L28.7,103a16,16,0,0,0,9.07,27.16l38.47,5.37,44.21,44.21,5.37,38.49a15.94,15.94,0,0,0,10.78,12.92,16.11,16.11,0,0,0,5.1.83A15.91,15.91,0,0,0,153,227.3L187.32,193A15.91,15.91,0,0,0,192,181.64V123.31l4.77-4.77C223.45,91.86,224.6,59.71,223.85,47.12ZM74.36,80h42.33L77.16,119.52,40,114.34Zm74.41-9.45a76.65,76.65,0,0,1,59.11-22.47,76.46,76.46,0,0,1-22.42,59.16L128,164.68,91.32,128ZM176,181.64,141.67,216l-5.19-37.17L176,139.31Zm-74.16,9.5C97.34,201,82.29,224,40,224a8,8,0,0,1-8-8c0-42.29,23-57.34,32.86-61.85a8,8,0,0,1,6.64,14.56c-6.43,2.93-20.62,12.36-23.12,38.91,26.55-2.5,36-16.69,38.91-23.12a8,8,0,1,1,14.56,6.64Z" />
-                      </g>
-                    </svg>
-                  </div>
-                </div>
-                <div className="framer-cvgrjz" data-framer-name="Content">
-                  <div className="framer-1f0hpyf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
-                    <p className="framer-text framer-styles-preset-1mjgjnj" data-styles-preset="J8wG5rgEX" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255)))" } as CSSProperties}>
-                      Start free trial
-                    </p>
-                  </div>
-                  <div className="framer-1pmqns5" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
-                    <p className="framer-text framer-styles-preset-1mjgjnj" data-styles-preset="J8wG5rgEX" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-89c3e745-3800-4e50-9b21-a2997a5c7cae, rgb(255, 255, 255)))" } as CSSProperties}>
-                      Start free trial
-                    </p>
-                  </div>
-                </div>
-                <div className="framer-izdxd0" data-framer-name="HoverOverlay" style={{ backgroundColor: "rgb(255, 255, 255)", opacity: 0.1 } as CSSProperties} data-hover-only="" />
-              </a>
-            </div>
+              <div className="framer-izdxd0" data-framer-name="HoverOverlay" style={{ backgroundColor: "rgb(255, 255, 255)", opacity: 0.1 } as CSSProperties} data-hover-only="" />
+            </a>
           </div>
         </div>
-      </section>
+      </CreateOncePublishEverywhere>
       <section className="framer-1pk2she" data-framer-name="Feature">
         <div className="framer-15ego7f" data-framer-name="Container">
           <div className="framer-1galzj8" data-framer-name="Title">

@@ -421,11 +421,39 @@ function prepHomeCopy(doc, key) {
   return n
 }
 
+// ------------------------------------------------ features: create once ----
+// The Features page's "Create once, publish everywhere" section is the v2 design
+// from Figma (Vj5CRB8MXjn98WXeIhmnZG, section 1094:2), hand-built in
+// app/_components/features/CreateOncePublishEverywhere.tsx. It replaces the
+// Framer (v1) section; the section's existing "Start free trial" button moves into
+// it unchanged (rendered as the component's children).
+let usesCreateOnce = false
+function prepCreateOnce(doc, key) {
+  if (key !== "feature") return 0
+  const root = doc.querySelector("[data-framer-root]")
+  const section = [...root.children].find(e => e.localName === "section" && /Create once, publish everywhere/.test(e.textContent))
+  if (!section) throw new Error("feature: \"Create once, publish everywhere\" section not found - update prepCreateOnce in convert.mjs")
+  const a = section.querySelector("a[href*='signup']")
+  if (!a) throw new Error("feature: Start free trial button not found in \"Create once\" section")
+  // Outermost wrapper that holds only the button.
+  let cta = a
+  while (cta.parentElement !== section && cta.parentElement.textContent.trim() === a.textContent.trim()) cta = cta.parentElement
+  const slot = doc.createElement("ps-create-once")
+  slot.appendChild(cta)
+  section.replaceWith(slot)
+  return 1
+}
+
 let usesLink = false, usesToggle = false, usesFooter = false
 function toJsx(node, ind, inToggle = false) {
   const pad = "  ".repeat(ind)
   // Shared footer component instance: rendered by app/_framer/Footer.tsx (see markFooters).
   if (node.__footer) { usesFooter = true; return `${pad}<Footer variant="${node.__footer}" />\n` }
+  // Hand-built Features section (see prepCreateOnce); its children are the Framer CTA.
+  if (node.nodeType === 1 && node.localName === "ps-create-once") {
+    usesCreateOnce = true
+    return `${pad}<CreateOncePublishEverywhere>\n${[...node.childNodes].map(c => toJsx(c, ind + 1, inToggle)).join("")}${pad}</CreateOncePublishEverywhere>\n`
+  }
   // Click-toggled component: emit <Toggle closed={...} open={...}> (see markToggles).
   if (node.__toggle && !inToggle) {
     const t = node.__toggle
@@ -839,6 +867,7 @@ for (const [key, name] of Object.entries(PAGES)) {
   if (founder) console.log(`${key}: founder statement updated (${founder} changes)`)
   const team = prepTeam(doc, key)
   if (team) console.log(`${key}: ${team} leadership team cards updated`)
+  if (prepCreateOnce(doc, key)) console.log(`${key}: "Create once, publish everywhere" -> CreateOncePublishEverywhere (Figma v2)`)
   const relinked = prepLinks(doc, key)
   const toggles = markToggles(doc, key)
   // One page <h1>: the first heading of the page (and its copies in the other
@@ -864,11 +893,12 @@ for (const [key, name] of Object.entries(PAGES)) {
 
   const footers = markFooters(doc, key)
 
-  usesLink = false; usesToggle = false; usesFooter = false; usesLinks = false
+  usesLink = false; usesToggle = false; usesFooter = false; usesLinks = false; usesCreateOnce = false
   const body = toJsx(root, 2)
   fs.writeFileSync(path.join(OUT, "pages", `${key}.tsx`),
     header + (usesLink ? 'import Link from "next/link"\n' : "") + (usesToggle ? 'import Toggle from "../../_components/Toggle"\n' : "") +
     (usesFooter ? 'import Footer from "../Footer"\n' : "") + (usesLinks ? 'import { OFFICIAL_LINKS } from "../../../lib/links"\n' : "") +
+    (usesCreateOnce ? 'import CreateOncePublishEverywhere from "../../_components/features/CreateOncePublishEverywhere"\n' : "") +
     `\nexport default function ${name}Page() {\n  return (\n${body}  )\n}\n`)
 
   if (key === "home") {

@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="110" height="34" viewBox="0 0 110 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame">
+<rect width="110" height="34" rx="17" fill="#F4F5F5"/>
+<circle id="Ellipse" cx="19" cy="17" r="8" fill="#E0FF82" stroke-width="2" stroke="#1F2223"/>
+<circle id="Ellipse_2" cx="43" cy="17" r="8.5" fill="#1F2223" stroke="#E8ECED"/>
+<circle id="Ellipse_3" cx="67" cy="17" r="8.5" fill="white" stroke="#E8ECED"/>
+<circle id="Ellipse_4" cx="91" cy="17" r="8.5" fill="#FF8A65" stroke="#E8ECED"/>
+</g>
+</svg>
