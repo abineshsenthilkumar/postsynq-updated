@@ -1,0 +1,12 @@
+# The website lives in website/. This file makes Netlify build it from there
+# even when the project's "Base directory" setting is left blank (otherwise
+# Netlify publishes the raw repository and every page is "Page not found").
+# Paths below are relative to the base directory. Settings here override the UI.
+[build]
+  base = "website"
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_TELEMETRY_DISABLED = "1"
