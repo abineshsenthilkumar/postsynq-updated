@@ -241,6 +241,43 @@ function prepFounder(doc) {
   return n
 }
 
+// ------------------------------------------------------------- team -------
+// About page leadership team ("Team" section): the Framer design still carries
+// placeholder names/roles and LinkedIn/website/email buttons pointing at
+// placeholder URLs. Cards keep their portraits, order, layout and animation;
+// names and roles become the real ones and the "Links" row is removed from
+// the markup (no hidden or empty controls left behind).
+// `from` is the name in the Framer design; a card that is not found stops the
+// conversion so a changed design is noticed instead of silently half-updated.
+const TEAM = [
+  { from: "Preetham", name: "Preetham Kotha", role: "Founder" },
+  { from: "Jessica Hayes", name: "Abinesh S", role: "Co-Founder and CTO" },
+  { from: "Constanza Perez", name: "Sanghasheela K", role: "Head Product Design" },
+  { from: "Meera Desai", name: "Harikrishnan V", role: "Head of Engineering" },
+]
+function prepTeam(doc, key) {
+  let n = 0
+  for (const section of doc.querySelectorAll("#main section[data-framer-name='Team']")) {
+    const cards = [...section.querySelectorAll("[data-framer-name='List'] [data-framer-name='Avatar']")].map(a => a.parentElement)
+    const textOf = el => [...el.querySelectorAll("[data-framer-name='Title'] p, [data-framer-name='Title'] h1, [data-framer-name='Title'] h2, [data-framer-name='Title'] h3, [data-framer-name='Title'] h4, [data-framer-name='Title'] h5, [data-framer-name='Title'] h6")]
+    TEAM.forEach((m, i) => {
+      const card = cards[i]
+      const [nameEl, roleEl] = card ? textOf(card) : []
+      if (!nameEl || nameEl.textContent.trim() !== m.from) throw new Error(`${key}: team card ${i + 1} is "${nameEl?.textContent.trim()}", expected "${m.from}" - check TEAM in convert.mjs`)
+      const setText = (el, text) => {
+        const t = [...el.childNodes].find(c => c.nodeType === 3 && c.nodeValue.trim())
+        if (t) t.nodeValue = text; else el.textContent = text
+      }
+      setText(nameEl, m.name)
+      if (roleEl) setText(roleEl, m.role)
+      card.querySelectorAll("[data-framer-name='Avatar'] img").forEach(img => img.setAttribute("alt", m.name))
+      card.querySelectorAll("[data-framer-name='Links']").forEach(row => row.remove())
+      n++
+    })
+  }
+  return n
+}
+
 let usesLink = false, usesToggle = false, usesFooter = false
 function toJsx(node, ind, inToggle = false) {
   const pad = "  ".repeat(ind)
@@ -654,6 +691,8 @@ for (const [key, name] of Object.entries(PAGES)) {
   prepHover(doc)
   const founder = prepFounder(doc)
   if (founder) console.log(`${key}: founder statement updated (${founder} changes)`)
+  const team = prepTeam(doc, key)
+  if (team) console.log(`${key}: ${team} leadership team cards updated`)
   const relinked = prepLinks(doc, key)
   const toggles = markToggles(doc, key)
   // One page <h1>: the first heading of the page (and its copies in the other

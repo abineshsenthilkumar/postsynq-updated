@@ -79,7 +79,11 @@ for (const [key, route] of Object.entries(ROUTES)) for (const [w, h] of [[1440, 
     check(!links.some(l => /instagram logo|Call \+91/.test(l.name) && l.href === "/pricing"), `${tag}: contact card no longer links to /pricing`)
   }
   if (key === "pricing") for (const plan of ["Basic", "Growth", "Business"]) expect("page", new RegExp(`Choose ${plan}`), L.app.signup)
-  if (key === "about") { expect("page", "PostSynq website", L.postsynq.website, "_blank"); expect("page", "Email PostSynq", L.postsynq.mailto) }
+  if (key === "about") {
+    // The leadership team cards have no social, website or email links.
+    const teamLinks = await page.locator("section[data-framer-name='Team'] a, section[data-framer-name='Team'] [href], section[data-framer-name='Team'] [data-href]").count()
+    check(teamLinks === 0, `${tag}: leadership team cards have no links`, `${teamLinks} found`)
+  }
   await page.close()
 }
 

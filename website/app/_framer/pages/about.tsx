@@ -594,59 +594,20 @@ export default function AboutPage() {
                 <div className="framer-hqz9q framer-lphTA framer-1g3g4zj framer-v-1g3g4zj" data-framer-name="Variant 1" style={{ width: "100%" } as CSSProperties}>
                   <div className="framer-1houkz6" data-framer-name="Avatar" style={{ borderBottomLeftRadius: "16px", borderBottomRightRadius: "16px", borderTopLeftRadius: "16px", borderTopRightRadius: "16px" } as CSSProperties}>
                     <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                      <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max(max((min(100vw, 1200px) - 40px) / 1.7, 1px), max((min(100vw, 1200px) - 72px) / 4, 1px)), (min-width: 810px) and (max-width: 1279.98px) max(max((min(100vw - 48px, 1200px) - 40px) / 1.7, 1px), max((min(100vw - 48px, 1200px) - 48px) / 3, 50px)), (max-width: 809.98px) max(min(100vw - 48px, 1200px), max((min(100vw - 48px, 1200px) - 16px) / 2, 50px))" srcSet={"https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?width=1254&height=1254 1254w"} src={"https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?width=1254&height=1254"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
+                      <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max(max((min(100vw, 1200px) - 40px) / 1.7, 1px), max((min(100vw, 1200px) - 72px) / 4, 1px)), (min-width: 810px) and (max-width: 1279.98px) max(max((min(100vw - 48px, 1200px) - 40px) / 1.7, 1px), max((min(100vw - 48px, 1200px) - 48px) / 3, 50px)), (max-width: 809.98px) max(min(100vw - 48px, 1200px), max((min(100vw - 48px, 1200px) - 16px) / 2, 50px))" srcSet={"https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?width=1254&height=1254 1254w"} src={"https://framerusercontent.com/images/ofVk6pjF8UfeZPteRzo4zBaah8U.png?width=1254&height=1254"} alt="Preetham Kotha" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
                     </div>
                   </div>
                   <div className="framer-626flb" data-framer-name="Info">
                     <div className="framer-193huvv" data-framer-name="Title">
                       <div className="framer-omuxrb" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473">
-                          Preetham
+                          Preetham Kotha
                         </p>
                       </div>
                       <div className="framer-u8vejv" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text" style={{ "--font-selector": "R0Y7T25lc3QtcmVndWxhcg==", "--framer-font-family": "\"Onest\", \"Onest Placeholder\", sans-serif", "--framer-font-size": "14px", "--framer-line-height": "1.4em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110)))" } as CSSProperties}>
                           Founder
                         </p>
-                      </div>
-                    </div>
-                    <div className="framer-1kgf09c" data-framer-name="Links">
-                      <div className="framer-ez5vf2-container">
-                        <a href="https://www.linkedin.com" className="framer-aM9cT framer-1ii496j framer-v-1ii496j framer-fq7xny" data-border="true" data-framer-name="Linkedin" data-highlight="true" target="_blank" tabIndex={0} style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="LinkedIn" rel="noopener noreferrer">
-                          <div className="framer-13j1v3w-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" focusable="false" viewBox="0 0 24 24" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z" />
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                      <div className="framer-1c2jczy-container">
-                        <a href={OFFICIAL_LINKS.postsynq.website} className="framer-PouNK framer-4q7vq6 framer-v-4q7vq6 framer-6mfjhe" data-border="true" data-framer-name="Variant 1" target="_blank" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="PostSynq website" rel="noopener noreferrer">
-                          <div className="framer-sdbozl-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", color: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <g color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))">
-                                  <path d="M128,24h0A104,104,0,1,0,232,128,104.12,104.12,0,0,0,128,24Zm88,104a87.61,87.61,0,0,1-3.33,24H174.16a157.44,157.44,0,0,0,0-48h38.51A87.61,87.61,0,0,1,216,128ZM102,168H154a115.11,115.11,0,0,1-26,45A115.27,115.27,0,0,1,102,168Zm-3.9-16a140.84,140.84,0,0,1,0-48h59.88a140.84,140.84,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.84a157.44,157.44,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154,88H102a115.11,115.11,0,0,1,26-45A115.27,115.27,0,0,1,154,88Zm52.33,0H170.71a135.28,135.28,0,0,0-22.3-45.6A88.29,88.29,0,0,1,206.37,88ZM107.59,42.4A135.28,135.28,0,0,0,85.29,88H49.63A88.29,88.29,0,0,1,107.59,42.4ZM49.63,168H85.29a135.28,135.28,0,0,0,22.3,45.6A88.29,88.29,0,0,1,49.63,168Zm98.78,45.6a135.28,135.28,0,0,0,22.3-45.6h35.66A88.29,88.29,0,0,1,148.41,213.6Z" />
-                                </g>
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                      <div className="framer-1bdtwyr-container">
-                        <a href={OFFICIAL_LINKS.postsynq.mailto} className="framer-PouNK framer-4q7vq6 framer-v-4q7vq6 framer-6mfjhe" data-border="true" data-framer-name="Variant 1" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="Email PostSynq">
-                          <div className="framer-sdbozl-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", color: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <g color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))">
-                                  <path d="M128,24a104,104,0,0,0,0,208c21.51,0,44.1-6.48,60.43-17.33a8,8,0,0,0-8.86-13.33C166,210.38,146.21,216,128,216a88,88,0,1,1,88-88c0,26.45-10.88,32-20,32s-20-5.55-20-32V88a8,8,0,0,0-16,0v4.26a48,48,0,1,0,5.93,65.1c6,12,16.35,18.64,30.07,18.64,22.54,0,36-17.94,36-48A104.11,104.11,0,0,0,128,24Zm0,136a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z" />
-                                </g>
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
                       </div>
                     </div>
                   </div>
@@ -658,46 +619,20 @@ export default function AboutPage() {
                 <div className="framer-hqz9q framer-lphTA framer-1g3g4zj framer-v-1g3g4zj" data-framer-name="Variant 1" style={{ width: "100%" } as CSSProperties}>
                   <div className="framer-1houkz6" data-framer-name="Avatar" style={{ borderBottomLeftRadius: "16px", borderBottomRightRadius: "16px", borderTopLeftRadius: "16px", borderTopRightRadius: "16px" } as CSSProperties}>
                     <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                      <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 72px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 48px) / 3, 50px), (max-width: 809.98px) max((min(100vw - 48px, 1200px) - 16px) / 2, 50px)" srcSet={"https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?width=1254&height=1254 1254w"} src={"https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?width=1254&height=1254"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
+                      <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 72px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 48px) / 3, 50px), (max-width: 809.98px) max((min(100vw - 48px, 1200px) - 16px) / 2, 50px)" srcSet={"https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?width=1254&height=1254 1254w"} src={"https://framerusercontent.com/images/OqTeT2NflHaDRc5y6OrMBTPXAWc.png?width=1254&height=1254"} alt="Abinesh S" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
                     </div>
                   </div>
                   <div className="framer-626flb" data-framer-name="Info">
                     <div className="framer-193huvv" data-framer-name="Title">
                       <div className="framer-omuxrb" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473">
-                          Jessica Hayes
+                          Abinesh S
                         </p>
                       </div>
                       <div className="framer-u8vejv" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text" style={{ "--font-selector": "R0Y7T25lc3QtcmVndWxhcg==", "--framer-font-family": "\"Onest\", \"Onest Placeholder\", sans-serif", "--framer-font-size": "14px", "--framer-line-height": "1.4em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110)))" } as CSSProperties}>
-                          {"Co-founder & CFO"}
+                          Co-Founder and CTO
                         </p>
-                      </div>
-                    </div>
-                    <div className="framer-1kgf09c" data-framer-name="Links">
-                      <div className="framer-ez5vf2-container">
-                        <a href="https://www.linkedin.com" className="framer-aM9cT framer-1ii496j framer-v-1ii496j framer-fq7xny" data-border="true" data-framer-name="Linkedin" data-highlight="true" target="_blank" tabIndex={0} style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="LinkedIn" rel="noopener noreferrer">
-                          <div className="framer-13j1v3w-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" focusable="false" viewBox="0 0 24 24" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z" />
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                      <div className="framer-1bdtwyr-container">
-                        <a href={OFFICIAL_LINKS.postsynq.mailto} className="framer-PouNK framer-4q7vq6 framer-v-4q7vq6 framer-6mfjhe" data-border="true" data-framer-name="Variant 1" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="Email PostSynq">
-                          <div className="framer-sdbozl-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", color: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <g color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))">
-                                  <path d="M128,24a104,104,0,0,0,0,208c21.51,0,44.1-6.48,60.43-17.33a8,8,0,0,0-8.86-13.33C166,210.38,146.21,216,128,216a88,88,0,1,1,88-88c0,26.45-10.88,32-20,32s-20-5.55-20-32V88a8,8,0,0,0-16,0v4.26a48,48,0,1,0,5.93,65.1c6,12,16.35,18.64,30.07,18.64,22.54,0,36-17.94,36-48A104.11,104.11,0,0,0,128,24Zm0,136a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z" />
-                                </g>
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
                       </div>
                     </div>
                   </div>
@@ -709,46 +644,20 @@ export default function AboutPage() {
                 <div className="framer-hqz9q framer-lphTA framer-1g3g4zj framer-v-1g3g4zj" data-framer-name="Variant 1" style={{ width: "100%" } as CSSProperties}>
                   <div className="framer-1houkz6" data-framer-name="Avatar" style={{ borderBottomLeftRadius: "16px", borderBottomRightRadius: "16px", borderTopLeftRadius: "16px", borderTopRightRadius: "16px" } as CSSProperties}>
                     <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                      <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 72px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 48px) / 3, 50px), (max-width: 809.98px) max((min(100vw - 48px, 1200px) - 16px) / 2, 50px)" srcSet={"https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?width=1254&height=1254 1254w"} src={"https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?width=1254&height=1254"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
+                      <img decoding="async" loading="lazy" width="1254" height="1254" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 72px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 48px) / 3, 50px), (max-width: 809.98px) max((min(100vw - 48px, 1200px) - 16px) / 2, 50px)" srcSet={"https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?width=1254&height=1254 1254w"} src={"https://framerusercontent.com/images/uOIYUQSWM1yhsQClrXWZvjw6h0.png?width=1254&height=1254"} alt="Sanghasheela K" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
                     </div>
                   </div>
                   <div className="framer-626flb" data-framer-name="Info">
                     <div className="framer-193huvv" data-framer-name="Title">
                       <div className="framer-omuxrb" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473">
-                          Constanza Perez
+                          Sanghasheela K
                         </p>
                       </div>
                       <div className="framer-u8vejv" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text" style={{ "--font-selector": "R0Y7T25lc3QtcmVndWxhcg==", "--framer-font-family": "\"Onest\", \"Onest Placeholder\", sans-serif", "--framer-font-size": "14px", "--framer-line-height": "1.4em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110)))" } as CSSProperties}>
-                          Head of Product
+                          Head Product Design
                         </p>
-                      </div>
-                    </div>
-                    <div className="framer-1kgf09c" data-framer-name="Links">
-                      <div className="framer-ez5vf2-container">
-                        <a href="https://www.linkedin.com" className="framer-aM9cT framer-1ii496j framer-v-1ii496j framer-fq7xny" data-border="true" data-framer-name="Linkedin" data-highlight="true" target="_blank" tabIndex={0} style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="LinkedIn" rel="noopener noreferrer">
-                          <div className="framer-13j1v3w-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" focusable="false" viewBox="0 0 24 24" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z" />
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                      <div className="framer-1c2jczy-container">
-                        <a href="https://www.framer.com" className="framer-PouNK framer-4q7vq6 framer-v-4q7vq6 framer-6mfjhe" data-border="true" data-framer-name="Variant 1" target="_blank" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} rel="noopener noreferrer">
-                          <div className="framer-sdbozl-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", color: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <g color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))">
-                                  <path d="M128,24h0A104,104,0,1,0,232,128,104.12,104.12,0,0,0,128,24Zm88,104a87.61,87.61,0,0,1-3.33,24H174.16a157.44,157.44,0,0,0,0-48h38.51A87.61,87.61,0,0,1,216,128ZM102,168H154a115.11,115.11,0,0,1-26,45A115.27,115.27,0,0,1,102,168Zm-3.9-16a140.84,140.84,0,0,1,0-48h59.88a140.84,140.84,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.84a157.44,157.44,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154,88H102a115.11,115.11,0,0,1,26-45A115.27,115.27,0,0,1,154,88Zm52.33,0H170.71a135.28,135.28,0,0,0-22.3-45.6A88.29,88.29,0,0,1,206.37,88ZM107.59,42.4A135.28,135.28,0,0,0,85.29,88H49.63A88.29,88.29,0,0,1,107.59,42.4ZM49.63,168H85.29a135.28,135.28,0,0,0,22.3,45.6A88.29,88.29,0,0,1,49.63,168Zm98.78,45.6a135.28,135.28,0,0,0,22.3-45.6h35.66A88.29,88.29,0,0,1,148.41,213.6Z" />
-                                </g>
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
                       </div>
                     </div>
                   </div>
@@ -760,59 +669,20 @@ export default function AboutPage() {
                 <div className="framer-hqz9q framer-lphTA framer-1g3g4zj framer-v-1g3g4zj" data-framer-name="Variant 1" style={{ width: "100%" } as CSSProperties}>
                   <div className="framer-1houkz6" data-framer-name="Avatar" style={{ borderBottomLeftRadius: "16px", borderBottomRightRadius: "16px", borderTopLeftRadius: "16px", borderTopRightRadius: "16px" } as CSSProperties}>
                     <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: 0, right: 0, bottom: 0, left: 0 } as CSSProperties} data-framer-background-image-wrapper="true">
-                      <img decoding="async" loading="lazy" width="1122" height="1402" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 72px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 48px) / 3, 50px), (max-width: 809.98px) max((min(100vw - 48px, 1200px) - 16px) / 2, 50px)" srcSet={"https://framerusercontent.com/images/hWy4hCpi4uFuCAYJ7gfSPPmvSE.png?scale-down-to=1024&width=1122&height=1402 819w,https://framerusercontent.com/images/hWy4hCpi4uFuCAYJ7gfSPPmvSE.png?width=1122&height=1402 1122w"} src={"https://framerusercontent.com/images/hWy4hCpi4uFuCAYJ7gfSPPmvSE.png?width=1122&height=1402"} alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
+                      <img decoding="async" loading="lazy" width="1122" height="1402" sizes="(min-width: 1280px) max((min(100vw, 1200px) - 72px) / 4, 1px), (min-width: 810px) and (max-width: 1279.98px) max((min(100vw - 48px, 1200px) - 48px) / 3, 50px), (max-width: 809.98px) max((min(100vw - 48px, 1200px) - 16px) / 2, 50px)" srcSet={"https://framerusercontent.com/images/hWy4hCpi4uFuCAYJ7gfSPPmvSE.png?scale-down-to=1024&width=1122&height=1402 819w,https://framerusercontent.com/images/hWy4hCpi4uFuCAYJ7gfSPPmvSE.png?width=1122&height=1402 1122w"} src={"https://framerusercontent.com/images/hWy4hCpi4uFuCAYJ7gfSPPmvSE.png?width=1122&height=1402"} alt="Harikrishnan V" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" } as CSSProperties} />
                     </div>
                   </div>
                   <div className="framer-626flb" data-framer-name="Info">
                     <div className="framer-193huvv" data-framer-name="Title">
                       <div className="framer-omuxrb" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473">
-                          Meera Desai
+                          Harikrishnan V
                         </p>
                       </div>
                       <div className="framer-u8vejv" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" } as CSSProperties}>
                         <p className="framer-text" style={{ "--font-selector": "R0Y7T25lc3QtcmVndWxhcg==", "--framer-font-family": "\"Onest\", \"Onest Placeholder\", sans-serif", "--framer-font-size": "14px", "--framer-line-height": "1.4em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(104, 110, 110)))" } as CSSProperties}>
                           Head of Engineering
                         </p>
-                      </div>
-                    </div>
-                    <div className="framer-1kgf09c" data-framer-name="Links">
-                      <div className="framer-ez5vf2-container">
-                        <a href="https://www.linkedin.com" className="framer-aM9cT framer-1ii496j framer-v-1ii496j framer-fq7xny" data-border="true" data-framer-name="Linkedin" data-highlight="true" target="_blank" tabIndex={0} style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="LinkedIn" rel="noopener noreferrer">
-                          <div className="framer-13j1v3w-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" focusable="false" viewBox="0 0 24 24" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z" />
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                      <div className="framer-1c2jczy-container">
-                        <a href="https://www.framer.com" className="framer-PouNK framer-4q7vq6 framer-v-4q7vq6 framer-6mfjhe" data-border="true" data-framer-name="Variant 1" target="_blank" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} rel="noopener noreferrer">
-                          <div className="framer-sdbozl-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", color: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <g color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))">
-                                  <path d="M128,24h0A104,104,0,1,0,232,128,104.12,104.12,0,0,0,128,24Zm88,104a87.61,87.61,0,0,1-3.33,24H174.16a157.44,157.44,0,0,0,0-48h38.51A87.61,87.61,0,0,1,216,128ZM102,168H154a115.11,115.11,0,0,1-26,45A115.27,115.27,0,0,1,102,168Zm-3.9-16a140.84,140.84,0,0,1,0-48h59.88a140.84,140.84,0,0,1,0,48ZM40,128a87.61,87.61,0,0,1,3.33-24H81.84a157.44,157.44,0,0,0,0,48H43.33A87.61,87.61,0,0,1,40,128ZM154,88H102a115.11,115.11,0,0,1,26-45A115.27,115.27,0,0,1,154,88Zm52.33,0H170.71a135.28,135.28,0,0,0-22.3-45.6A88.29,88.29,0,0,1,206.37,88ZM107.59,42.4A135.28,135.28,0,0,0,85.29,88H49.63A88.29,88.29,0,0,1,107.59,42.4ZM49.63,168H85.29a135.28,135.28,0,0,0,22.3,45.6A88.29,88.29,0,0,1,49.63,168Zm98.78,45.6a135.28,135.28,0,0,0,22.3-45.6h35.66A88.29,88.29,0,0,1,148.41,213.6Z" />
-                                </g>
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
-                      </div>
-                      <div className="framer-1bdtwyr-container">
-                        <a href={OFFICIAL_LINKS.postsynq.mailto} className="framer-PouNK framer-4q7vq6 framer-v-4q7vq6 framer-6mfjhe" data-border="true" data-framer-name="Variant 1" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-c5ba1af9-982c-4c70-a2c9-efbbeaa9ff24, rgb(229, 230, 230))", "--border-left-width": "1px", "--border-right-width": "1px", "--border-style": "solid", "--border-top-width": "1px", height: "100%", width: "100%", borderBottomLeftRadius: "6px", borderBottomRightRadius: "6px", borderTopLeftRadius: "6px", borderTopRightRadius: "6px" } as CSSProperties} aria-label="Email PostSynq">
-                          <div className="framer-sdbozl-container">
-                            <div style={{ display: "contents" } as CSSProperties}>
-                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" focusable="false" color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" style={{ userSelect: "none", width: "100%", height: "100%", display: "inline-block", fill: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", color: "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))", flexShrink: 0 } as CSSProperties}>
-                                <g color="var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))">
-                                  <path d="M128,24a104,104,0,0,0,0,208c21.51,0,44.1-6.48,60.43-17.33a8,8,0,0,0-8.86-13.33C166,210.38,146.21,216,128,216a88,88,0,1,1,88-88c0,26.45-10.88,32-20,32s-20-5.55-20-32V88a8,8,0,0,0-16,0v4.26a48,48,0,1,0,5.93,65.1c6,12,16.35,18.64,30.07,18.64,22.54,0,36-17.94,36-48A104.11,104.11,0,0,0,128,24Zm0,136a32,32,0,1,1,32-32A32,32,0,0,1,128,160Z" />
-                                </g>
-                              </svg>
-                            </div>
-                          </div>
-                        </a>
                       </div>
                     </div>
                   </div>
