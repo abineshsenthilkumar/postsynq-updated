@@ -104,7 +104,7 @@ export default function HomePage() {
           </div>
           <div className="framer-9nkbfp" data-framer-component-type="RichTextContainer" data-appear="9nkbfp" data-reveal="">
             <p className="framer-text framer-styles-preset-1pqxyds" data-styles-preset="adY0lpJ8d" dir="auto" style={{ "--framer-text-alignment": "center", "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" } as CSSProperties}>
-              Create once and post to every social platform in one go. Synq AI writes, designs and plans the rest.
+              Running a business leaves little time for social media. PostSynq uses AI to create, plan, design and publish your content, so you can focus on growing your business.
             </p>
           </div>
           <div className="framer-kx9voc" data-framer-name="CTA">
@@ -170,14 +170,14 @@ export default function HomePage() {
           <div className="ssr-variant hidden-lkre0h">
             <div className="framer-j7lsdn" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
               <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(84, 111, 125))" } as CSSProperties}>
-                Publish everywhere your customers already are
+                Reach your customers across multiple social media platforms.
               </p>
             </div>
           </div>
           <div className="ssr-variant hidden-1yeacn0 hidden-1n4zf07">
             <div className="framer-j7lsdn" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
               <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-alignment": "center", "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(84, 111, 125))" } as CSSProperties}>
-                Publish everywhere your customers already are
+                Reach your customers across multiple social media platforms.
               </p>
             </div>
           </div>
@@ -238,74 +238,76 @@ export default function HomePage() {
         <div className="framer-y5bfz9" data-framer-name="Paragraph Wrapper">
           <div className="framer-32ml8w-container" data-framer-name="Scroll Reveal Paragraph" data-name="Scroll Reveal Paragraph">
             <div className="ssr-variant hidden-lkre0h hidden-1n4zf07">
-              <p style={{ margin: 0, width: "100%", fontFamily: "\"Onest\", \"Onest\", system-ui, sans-serif", fontSize: "40px", fontWeight: 500, lineHeight: "1.2em", letterSpacing: "-0.02em", textAlign: "center", color: "rgb(196, 201, 203)", maxWidth: "100%", "--sr-light": "rgb(196, 201, 203)" } as CSSProperties} aria-label="Most small businesses don’t struggle with their product. They struggle with posting, every platform wants its own version, ideas run out by Wednesday, and nobody knows what to post or when. So the page goes quiet and customers forget. We built PostSynQ to fix that." data-scroll-reveal="">
+              <p style={{ margin: 0, width: "100%", fontFamily: "\"Onest\", \"Onest\", system-ui, sans-serif", fontSize: "40px", fontWeight: 500, lineHeight: "1.2em", letterSpacing: "-0.02em", textAlign: "center", color: "rgb(196, 201, 203)", maxWidth: "100%", "--sr-light": "rgb(196, 201, 203)" } as CSSProperties} aria-label="Running a business is already a full-time job. Finding content ideas, designing posts, writing captions and managing multiple social media platforms takes time. Inconsistent posting makes it harder to stay visible and connect with customers. We built PostSynq to solve that." data-scroll-reveal="">
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "0" } as CSSProperties} data-ch="">
-                      M
+                      R
                     </span>
                     <span style={{ "--i": "1" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "2" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "3" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "4" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "5" } as CSSProperties} data-ch="">
-                      m
-                    </span>
-                    <span style={{ "--i": "6" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "7" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "8" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "9" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "10" } as CSSProperties} data-ch="">
                       u
                     </span>
-                    <span style={{ "--i": "11" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "12" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "13" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "2" } as CSSProperties} data-ch="">
                       n
                     </span>
-                    <span style={{ "--i": "14" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "3" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "4" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "5" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "6" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "7" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "8" } as CSSProperties} data-ch="">
+                      b
+                    </span>
+                    <span style={{ "--i": "9" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "10" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "11" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "12" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "13" } as CSSProperties} data-ch="">
                       e
+                    </span>
+                    <span style={{ "--i": "14" } as CSSProperties} data-ch="">
+                      s
                     </span>
                     <span style={{ "--i": "15" } as CSSProperties} data-ch="">
                       s
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "16" } as CSSProperties} data-ch="">
-                      s
+                      i
                     </span>
                     <span style={{ "--i": "17" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "18" } as CSSProperties} data-ch="">
                       s
                     </span>
                   </span>
@@ -313,114 +315,82 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "18" } as CSSProperties} data-ch="">
+                      a
+                    </span>
                     <span style={{ "--i": "19" } as CSSProperties} data-ch="">
-                      d
+                      l
                     </span>
                     <span style={{ "--i": "20" } as CSSProperties} data-ch="">
-                      o
+                      r
                     </span>
                     <span style={{ "--i": "21" } as CSSProperties} data-ch="">
-                      n
+                      e
                     </span>
                     <span style={{ "--i": "22" } as CSSProperties} data-ch="">
-                      ’
+                      a
                     </span>
                     <span style={{ "--i": "23" } as CSSProperties} data-ch="">
-                      t
+                      d
+                    </span>
+                    <span style={{ "--i": "24" } as CSSProperties} data-ch="">
+                      y
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "24" } as CSSProperties} data-ch="">
-                      s
-                    </span>
                     <span style={{ "--i": "25" } as CSSProperties} data-ch="">
-                      t
+                      a
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "26" } as CSSProperties} data-ch="">
-                      r
+                      f
                     </span>
                     <span style={{ "--i": "27" } as CSSProperties} data-ch="">
                       u
                     </span>
                     <span style={{ "--i": "28" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "29" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "30" } as CSSProperties} data-ch="">
                       l
                     </span>
-                    <span style={{ "--i": "31" } as CSSProperties} data-ch="">
-                      e
+                    <span style={{ "--i": "29" } as CSSProperties} data-ch="">
+                      l
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "30" } as CSSProperties} data-ch="">
+                      -
+                    </span>
+                    <span style={{ "--i": "31" } as CSSProperties} data-ch="">
+                      t
+                    </span>
                     <span style={{ "--i": "32" } as CSSProperties} data-ch="">
-                      w
+                      i
                     </span>
                     <span style={{ "--i": "33" } as CSSProperties} data-ch="">
-                      i
+                      m
                     </span>
                     <span style={{ "--i": "34" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "35" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "36" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "37" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "38" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "39" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "40" } as CSSProperties} data-ch="">
-                      r
-                    </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "41" } as CSSProperties} data-ch="">
-                      p
+                    <span style={{ "--i": "35" } as CSSProperties} data-ch="">
+                      j
                     </span>
-                    <span style={{ "--i": "42" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "43" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "36" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "44" } as CSSProperties} data-ch="">
-                      d
+                    <span style={{ "--i": "37" } as CSSProperties} data-ch="">
+                      b
                     </span>
-                    <span style={{ "--i": "45" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "46" } as CSSProperties} data-ch="">
-                      c
-                    </span>
-                    <span style={{ "--i": "47" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "48" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "38" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -428,17 +398,52 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "39" } as CSSProperties} data-ch="">
+                      F
+                    </span>
+                    <span style={{ "--i": "40" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "41" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "42" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "43" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "44" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "45" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "46" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "47" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "48" } as CSSProperties} data-ch="">
+                      n
+                    </span>
                     <span style={{ "--i": "49" } as CSSProperties} data-ch="">
-                      T
+                      t
                     </span>
                     <span style={{ "--i": "50" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "51" } as CSSProperties} data-ch="">
                       e
                     </span>
+                    <span style={{ "--i": "51" } as CSSProperties} data-ch="">
+                      n
+                    </span>
                     <span style={{ "--i": "52" } as CSSProperties} data-ch="">
-                      y
+                      t
                     </span>
                   </span>
                   {" "}
@@ -446,199 +451,76 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "53" } as CSSProperties} data-ch="">
-                      s
+                      i
                     </span>
                     <span style={{ "--i": "54" } as CSSProperties} data-ch="">
-                      t
+                      d
                     </span>
                     <span style={{ "--i": "55" } as CSSProperties} data-ch="">
-                      r
+                      e
                     </span>
                     <span style={{ "--i": "56" } as CSSProperties} data-ch="">
-                      u
+                      a
                     </span>
                     <span style={{ "--i": "57" } as CSSProperties} data-ch="">
-                      g
+                      s
                     </span>
                     <span style={{ "--i": "58" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "59" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "60" } as CSSProperties} data-ch="">
-                      e
+                      ,
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "59" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "60" } as CSSProperties} data-ch="">
+                      e
+                    </span>
                     <span style={{ "--i": "61" } as CSSProperties} data-ch="">
-                      w
+                      s
                     </span>
                     <span style={{ "--i": "62" } as CSSProperties} data-ch="">
                       i
                     </span>
                     <span style={{ "--i": "63" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "64" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "65" } as CSSProperties} data-ch="">
-                      p
-                    </span>
-                    <span style={{ "--i": "66" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "67" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "68" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "69" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "70" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "71" } as CSSProperties} data-ch="">
                       g
                     </span>
-                    <span style={{ "--i": "72" } as CSSProperties} data-ch="">
-                      ,
+                    <span style={{ "--i": "64" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "65" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "66" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "67" } as CSSProperties} data-ch="">
+                      g
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "73" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "74" } as CSSProperties} data-ch="">
-                      v
-                    </span>
-                    <span style={{ "--i": "75" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "76" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "77" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "78" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "68" } as CSSProperties} data-ch="">
                       p
                     </span>
-                    <span style={{ "--i": "79" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "80" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "81" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "82" } as CSSProperties} data-ch="">
-                      f
-                    </span>
-                    <span style={{ "--i": "83" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "69" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "84" } as CSSProperties} data-ch="">
-                      r
+                    <span style={{ "--i": "70" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "85" } as CSSProperties} data-ch="">
-                      m
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "86" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "87" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "88" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "89" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "71" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "90" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "72" } as CSSProperties} data-ch="">
                       s
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "91" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "92" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "93" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "94" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "95" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "96" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "97" } as CSSProperties} data-ch="">
-                      v
-                    </span>
-                    <span style={{ "--i": "98" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "99" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "100" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "101" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "102" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "103" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "104" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "73" } as CSSProperties} data-ch="">
                       ,
                     </span>
                   </span>
@@ -646,94 +528,202 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "105" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "74" } as CSSProperties} data-ch="">
+                      w
+                    </span>
+                    <span style={{ "--i": "75" } as CSSProperties} data-ch="">
+                      r
+                    </span>
+                    <span style={{ "--i": "76" } as CSSProperties} data-ch="">
                       i
                     </span>
-                    <span style={{ "--i": "106" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "77" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "78" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "79" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "80" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "81" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "82" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "83" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "84" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "85" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "86" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "87" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "88" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "89" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "90" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "91" } as CSSProperties} data-ch="">
                       d
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "92" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "93" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "94" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "95" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "96" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                    <span style={{ "--i": "97" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "98" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "99" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "100" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "101" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "102" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "103" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "104" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "105" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "106" } as CSSProperties} data-ch="">
+                      l
                     </span>
                     <span style={{ "--i": "107" } as CSSProperties} data-ch="">
                       e
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "108" } as CSSProperties} data-ch="">
-                      a
+                      s
                     </span>
                     <span style={{ "--i": "109" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "110" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "111" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "112" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "113" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "114" } as CSSProperties} data-ch="">
-                      u
+                    <span style={{ "--i": "110" } as CSSProperties} data-ch="">
+                      c
                     </span>
-                    <span style={{ "--i": "115" } as CSSProperties} data-ch="">
-                      t
+                    <span style={{ "--i": "111" } as CSSProperties} data-ch="">
+                      i
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "116" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "117" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "118" } as CSSProperties} data-ch="">
-                      W
-                    </span>
-                    <span style={{ "--i": "119" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "120" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "121" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "122" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "123" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "124" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "125" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "112" } as CSSProperties} data-ch="">
                       a
                     </span>
+                    <span style={{ "--i": "113" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "114" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "115" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "116" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "117" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "118" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "119" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "120" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "121" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "122" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "123" } as CSSProperties} data-ch="">
+                      f
+                    </span>
+                    <span style={{ "--i": "124" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "125" } as CSSProperties} data-ch="">
+                      r
+                    </span>
                     <span style={{ "--i": "126" } as CSSProperties} data-ch="">
-                      y
+                      m
                     </span>
                     <span style={{ "--i": "127" } as CSSProperties} data-ch="">
-                      ,
+                      s
                     </span>
                   </span>
                   {" "}
@@ -741,131 +731,38 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "128" } as CSSProperties} data-ch="">
-                      a
+                      t
                     </span>
                     <span style={{ "--i": "129" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "130" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "131" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "132" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "133" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "134" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "135" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "136" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "137" } as CSSProperties} data-ch="">
-                      k
-                    </span>
-                    <span style={{ "--i": "138" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "139" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "140" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "141" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "142" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "143" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "144" } as CSSProperties} data-ch="">
                       a
                     </span>
-                    <span style={{ "--i": "145" } as CSSProperties} data-ch="">
-                      t
+                    <span style={{ "--i": "130" } as CSSProperties} data-ch="">
+                      k
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "146" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "147" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "148" } as CSSProperties} data-ch="">
-                      p
-                    </span>
-                    <span style={{ "--i": "149" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "150" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "151" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "152" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "153" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "154" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "155" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "156" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "131" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "157" } as CSSProperties} data-ch="">
-                      n
+                    <span style={{ "--i": "132" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "158" } as CSSProperties} data-ch="">
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "133" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "134" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "135" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "136" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "137" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -873,25 +770,98 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "159" } as CSSProperties} data-ch="">
-                      S
+                    <span style={{ "--i": "138" } as CSSProperties} data-ch="">
+                      I
                     </span>
-                    <span style={{ "--i": "160" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "139" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "140" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "141" } as CSSProperties} data-ch="">
                       o
+                    </span>
+                    <span style={{ "--i": "142" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "143" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "144" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "145" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "146" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "147" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "148" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "149" } as CSSProperties} data-ch="">
+                      t
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "161" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "150" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "151" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "152" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "153" } as CSSProperties} data-ch="">
                       t
                     </span>
+                    <span style={{ "--i": "154" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "155" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "156" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "157" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "158" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "159" } as CSSProperties} data-ch="">
+                      k
+                    </span>
+                    <span style={{ "--i": "160" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "161" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "162" } as CSSProperties} data-ch="">
-                      h
+                      i
                     </span>
                     <span style={{ "--i": "163" } as CSSProperties} data-ch="">
-                      e
+                      t
                     </span>
                   </span>
                   {" "}
@@ -899,33 +869,33 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "164" } as CSSProperties} data-ch="">
-                      p
+                      h
                     </span>
                     <span style={{ "--i": "165" } as CSSProperties} data-ch="">
                       a
                     </span>
                     <span style={{ "--i": "166" } as CSSProperties} data-ch="">
-                      g
+                      r
                     </span>
                     <span style={{ "--i": "167" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "168" } as CSSProperties} data-ch="">
                       e
+                    </span>
+                    <span style={{ "--i": "169" } as CSSProperties} data-ch="">
+                      r
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "168" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "169" } as CSSProperties} data-ch="">
-                      o
-                    </span>
                     <span style={{ "--i": "170" } as CSSProperties} data-ch="">
-                      e
+                      t
                     </span>
                     <span style={{ "--i": "171" } as CSSProperties} data-ch="">
-                      s
+                      o
                     </span>
                   </span>
                   {" "}
@@ -933,32 +903,55 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "172" } as CSSProperties} data-ch="">
-                      q
+                      s
                     </span>
                     <span style={{ "--i": "173" } as CSSProperties} data-ch="">
-                      u
+                      t
                     </span>
                     <span style={{ "--i": "174" } as CSSProperties} data-ch="">
-                      i
+                      a
                     </span>
                     <span style={{ "--i": "175" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "176" } as CSSProperties} data-ch="">
-                      t
+                      y
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "176" } as CSSProperties} data-ch="">
+                      v
+                    </span>
                     <span style={{ "--i": "177" } as CSSProperties} data-ch="">
-                      a
+                      i
                     </span>
                     <span style={{ "--i": "178" } as CSSProperties} data-ch="">
-                      n
+                      s
                     </span>
                     <span style={{ "--i": "179" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "180" } as CSSProperties} data-ch="">
+                      b
+                    </span>
+                    <span style={{ "--i": "181" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "182" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "183" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "184" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "185" } as CSSProperties} data-ch="">
                       d
                     </span>
                   </span>
@@ -966,57 +959,77 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "180" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "186" } as CSSProperties} data-ch="">
                       c
                     </span>
-                    <span style={{ "--i": "181" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "182" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "183" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "184" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "187" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "185" } as CSSProperties} data-ch="">
-                      m
+                    <span style={{ "--i": "188" } as CSSProperties} data-ch="">
+                      n
                     </span>
-                    <span style={{ "--i": "186" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "189" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "190" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "187" } as CSSProperties} data-ch="">
-                      r
+                    <span style={{ "--i": "191" } as CSSProperties} data-ch="">
+                      c
                     </span>
-                    <span style={{ "--i": "188" } as CSSProperties} data-ch="">
-                      s
+                    <span style={{ "--i": "192" } as CSSProperties} data-ch="">
+                      t
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "189" } as CSSProperties} data-ch="">
-                      f
-                    </span>
-                    <span style={{ "--i": "190" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "191" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "192" } as CSSProperties} data-ch="">
-                      g
-                    </span>
                     <span style={{ "--i": "193" } as CSSProperties} data-ch="">
-                      e
+                      w
                     </span>
                     <span style={{ "--i": "194" } as CSSProperties} data-ch="">
-                      t
+                      i
                     </span>
                     <span style={{ "--i": "195" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "196" } as CSSProperties} data-ch="">
+                      h
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "197" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "198" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "199" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "200" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "201" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "202" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "203" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "204" } as CSSProperties} data-ch="">
+                      r
+                    </span>
+                    <span style={{ "--i": "205" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "206" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -1024,10 +1037,10 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "196" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "207" } as CSSProperties} data-ch="">
                       W
                     </span>
-                    <span style={{ "--i": "197" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "208" } as CSSProperties} data-ch="">
                       e
                     </span>
                   </span>
@@ -1035,59 +1048,59 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "198" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "209" } as CSSProperties} data-ch="">
                       b
                     </span>
-                    <span style={{ "--i": "199" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "210" } as CSSProperties} data-ch="">
                       u
                     </span>
-                    <span style={{ "--i": "200" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "201" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "202" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "203" } as CSSProperties} data-ch="">
-                      P
-                    </span>
-                    <span style={{ "--i": "204" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "205" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "206" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "207" } as CSSProperties} data-ch="">
-                      S
-                    </span>
-                    <span style={{ "--i": "208" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                    <span style={{ "--i": "209" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "210" } as CSSProperties} data-ch="">
-                      Q
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "211" } as CSSProperties} data-ch="">
-                      t
+                      i
                     </span>
                     <span style={{ "--i": "212" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "213" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "214" } as CSSProperties} data-ch="">
+                      P
+                    </span>
+                    <span style={{ "--i": "215" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "216" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "217" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "218" } as CSSProperties} data-ch="">
+                      S
+                    </span>
+                    <span style={{ "--i": "219" } as CSSProperties} data-ch="">
+                      y
+                    </span>
+                    <span style={{ "--i": "220" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "221" } as CSSProperties} data-ch="">
+                      q
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "222" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "223" } as CSSProperties} data-ch="">
                       o
                     </span>
                   </span>
@@ -1095,33 +1108,39 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "213" } as CSSProperties} data-ch="">
-                      f
+                    <span style={{ "--i": "224" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "214" } as CSSProperties} data-ch="">
-                      i
+                    <span style={{ "--i": "225" } as CSSProperties} data-ch="">
+                      o
                     </span>
-                    <span style={{ "--i": "215" } as CSSProperties} data-ch="">
-                      x
+                    <span style={{ "--i": "226" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "227" } as CSSProperties} data-ch="">
+                      v
+                    </span>
+                    <span style={{ "--i": "228" } as CSSProperties} data-ch="">
+                      e
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "216" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "229" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "217" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "230" } as CSSProperties} data-ch="">
                       h
                     </span>
-                    <span style={{ "--i": "218" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "231" } as CSSProperties} data-ch="">
                       a
                     </span>
-                    <span style={{ "--i": "219" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "232" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "220" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "233" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -1129,74 +1148,76 @@ export default function HomePage() {
               </p>
             </div>
             <div className="ssr-variant hidden-1yeacn0 hidden-1n4zf07">
-              <p style={{ margin: 0, width: "100%", fontFamily: "\"Onest\", \"Onest\", system-ui, sans-serif", fontSize: "24px", fontWeight: 500, lineHeight: "1.25em", letterSpacing: "-0.02em", textAlign: "center", color: "rgb(196, 201, 203)", maxWidth: "100%", "--sr-light": "rgb(196, 201, 203)" } as CSSProperties} aria-label="Most small businesses don’t struggle with their product. They struggle with posting, every platform wants its own version, ideas run out by Wednesday, and nobody knows what to post or when. So the page goes quiet and customers forget. We built PostSynQ to fix that." data-scroll-reveal="">
+              <p style={{ margin: 0, width: "100%", fontFamily: "\"Onest\", \"Onest\", system-ui, sans-serif", fontSize: "24px", fontWeight: 500, lineHeight: "1.25em", letterSpacing: "-0.02em", textAlign: "center", color: "rgb(196, 201, 203)", maxWidth: "100%", "--sr-light": "rgb(196, 201, 203)" } as CSSProperties} aria-label="Running a business is already a full-time job. Finding content ideas, designing posts, writing captions and managing multiple social media platforms takes time. Inconsistent posting makes it harder to stay visible and connect with customers. We built PostSynq to solve that." data-scroll-reveal="">
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "0" } as CSSProperties} data-ch="">
-                      M
+                      R
                     </span>
                     <span style={{ "--i": "1" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "2" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "3" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "4" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "5" } as CSSProperties} data-ch="">
-                      m
-                    </span>
-                    <span style={{ "--i": "6" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "7" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "8" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "9" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "10" } as CSSProperties} data-ch="">
                       u
                     </span>
-                    <span style={{ "--i": "11" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "12" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "13" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "2" } as CSSProperties} data-ch="">
                       n
                     </span>
-                    <span style={{ "--i": "14" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "3" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "4" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "5" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "6" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "7" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "8" } as CSSProperties} data-ch="">
+                      b
+                    </span>
+                    <span style={{ "--i": "9" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "10" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "11" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "12" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "13" } as CSSProperties} data-ch="">
                       e
+                    </span>
+                    <span style={{ "--i": "14" } as CSSProperties} data-ch="">
+                      s
                     </span>
                     <span style={{ "--i": "15" } as CSSProperties} data-ch="">
                       s
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "16" } as CSSProperties} data-ch="">
-                      s
+                      i
                     </span>
                     <span style={{ "--i": "17" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "18" } as CSSProperties} data-ch="">
                       s
                     </span>
                   </span>
@@ -1204,114 +1225,82 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "18" } as CSSProperties} data-ch="">
+                      a
+                    </span>
                     <span style={{ "--i": "19" } as CSSProperties} data-ch="">
-                      d
+                      l
                     </span>
                     <span style={{ "--i": "20" } as CSSProperties} data-ch="">
-                      o
+                      r
                     </span>
                     <span style={{ "--i": "21" } as CSSProperties} data-ch="">
-                      n
+                      e
                     </span>
                     <span style={{ "--i": "22" } as CSSProperties} data-ch="">
-                      ’
+                      a
                     </span>
                     <span style={{ "--i": "23" } as CSSProperties} data-ch="">
-                      t
+                      d
+                    </span>
+                    <span style={{ "--i": "24" } as CSSProperties} data-ch="">
+                      y
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "24" } as CSSProperties} data-ch="">
-                      s
-                    </span>
                     <span style={{ "--i": "25" } as CSSProperties} data-ch="">
-                      t
+                      a
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "26" } as CSSProperties} data-ch="">
-                      r
+                      f
                     </span>
                     <span style={{ "--i": "27" } as CSSProperties} data-ch="">
                       u
                     </span>
                     <span style={{ "--i": "28" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "29" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "30" } as CSSProperties} data-ch="">
                       l
                     </span>
-                    <span style={{ "--i": "31" } as CSSProperties} data-ch="">
-                      e
+                    <span style={{ "--i": "29" } as CSSProperties} data-ch="">
+                      l
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "30" } as CSSProperties} data-ch="">
+                      -
+                    </span>
+                    <span style={{ "--i": "31" } as CSSProperties} data-ch="">
+                      t
+                    </span>
                     <span style={{ "--i": "32" } as CSSProperties} data-ch="">
-                      w
+                      i
                     </span>
                     <span style={{ "--i": "33" } as CSSProperties} data-ch="">
-                      i
+                      m
                     </span>
                     <span style={{ "--i": "34" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "35" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "36" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "37" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "38" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "39" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "40" } as CSSProperties} data-ch="">
-                      r
-                    </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "41" } as CSSProperties} data-ch="">
-                      p
+                    <span style={{ "--i": "35" } as CSSProperties} data-ch="">
+                      j
                     </span>
-                    <span style={{ "--i": "42" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "43" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "36" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "44" } as CSSProperties} data-ch="">
-                      d
+                    <span style={{ "--i": "37" } as CSSProperties} data-ch="">
+                      b
                     </span>
-                    <span style={{ "--i": "45" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "46" } as CSSProperties} data-ch="">
-                      c
-                    </span>
-                    <span style={{ "--i": "47" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "48" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "38" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -1319,17 +1308,52 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "39" } as CSSProperties} data-ch="">
+                      F
+                    </span>
+                    <span style={{ "--i": "40" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "41" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "42" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "43" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "44" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "45" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "46" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "47" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "48" } as CSSProperties} data-ch="">
+                      n
+                    </span>
                     <span style={{ "--i": "49" } as CSSProperties} data-ch="">
-                      T
+                      t
                     </span>
                     <span style={{ "--i": "50" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "51" } as CSSProperties} data-ch="">
                       e
                     </span>
+                    <span style={{ "--i": "51" } as CSSProperties} data-ch="">
+                      n
+                    </span>
                     <span style={{ "--i": "52" } as CSSProperties} data-ch="">
-                      y
+                      t
                     </span>
                   </span>
                   {" "}
@@ -1337,199 +1361,76 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "53" } as CSSProperties} data-ch="">
-                      s
+                      i
                     </span>
                     <span style={{ "--i": "54" } as CSSProperties} data-ch="">
-                      t
+                      d
                     </span>
                     <span style={{ "--i": "55" } as CSSProperties} data-ch="">
-                      r
+                      e
                     </span>
                     <span style={{ "--i": "56" } as CSSProperties} data-ch="">
-                      u
+                      a
                     </span>
                     <span style={{ "--i": "57" } as CSSProperties} data-ch="">
-                      g
+                      s
                     </span>
                     <span style={{ "--i": "58" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "59" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "60" } as CSSProperties} data-ch="">
-                      e
+                      ,
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "59" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "60" } as CSSProperties} data-ch="">
+                      e
+                    </span>
                     <span style={{ "--i": "61" } as CSSProperties} data-ch="">
-                      w
+                      s
                     </span>
                     <span style={{ "--i": "62" } as CSSProperties} data-ch="">
                       i
                     </span>
                     <span style={{ "--i": "63" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "64" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "65" } as CSSProperties} data-ch="">
-                      p
-                    </span>
-                    <span style={{ "--i": "66" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "67" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "68" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "69" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "70" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "71" } as CSSProperties} data-ch="">
                       g
                     </span>
-                    <span style={{ "--i": "72" } as CSSProperties} data-ch="">
-                      ,
+                    <span style={{ "--i": "64" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "65" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "66" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "67" } as CSSProperties} data-ch="">
+                      g
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "73" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "74" } as CSSProperties} data-ch="">
-                      v
-                    </span>
-                    <span style={{ "--i": "75" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "76" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "77" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "78" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "68" } as CSSProperties} data-ch="">
                       p
                     </span>
-                    <span style={{ "--i": "79" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "80" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "81" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "82" } as CSSProperties} data-ch="">
-                      f
-                    </span>
-                    <span style={{ "--i": "83" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "69" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "84" } as CSSProperties} data-ch="">
-                      r
+                    <span style={{ "--i": "70" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "85" } as CSSProperties} data-ch="">
-                      m
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "86" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "87" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "88" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "89" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "71" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "90" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "72" } as CSSProperties} data-ch="">
                       s
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "91" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "92" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "93" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "94" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "95" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "96" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "97" } as CSSProperties} data-ch="">
-                      v
-                    </span>
-                    <span style={{ "--i": "98" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "99" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "100" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "101" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "102" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "103" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "104" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "73" } as CSSProperties} data-ch="">
                       ,
                     </span>
                   </span>
@@ -1537,94 +1438,202 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "105" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "74" } as CSSProperties} data-ch="">
+                      w
+                    </span>
+                    <span style={{ "--i": "75" } as CSSProperties} data-ch="">
+                      r
+                    </span>
+                    <span style={{ "--i": "76" } as CSSProperties} data-ch="">
                       i
                     </span>
-                    <span style={{ "--i": "106" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "77" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "78" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "79" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "80" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "81" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "82" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "83" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "84" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "85" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "86" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "87" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "88" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "89" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "90" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "91" } as CSSProperties} data-ch="">
                       d
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "92" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "93" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "94" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "95" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "96" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                    <span style={{ "--i": "97" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "98" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "99" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "100" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "101" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "102" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "103" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "104" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "105" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "106" } as CSSProperties} data-ch="">
+                      l
                     </span>
                     <span style={{ "--i": "107" } as CSSProperties} data-ch="">
                       e
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "108" } as CSSProperties} data-ch="">
-                      a
+                      s
                     </span>
                     <span style={{ "--i": "109" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "110" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "111" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "112" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "113" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "114" } as CSSProperties} data-ch="">
-                      u
+                    <span style={{ "--i": "110" } as CSSProperties} data-ch="">
+                      c
                     </span>
-                    <span style={{ "--i": "115" } as CSSProperties} data-ch="">
-                      t
+                    <span style={{ "--i": "111" } as CSSProperties} data-ch="">
+                      i
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "116" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "117" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "118" } as CSSProperties} data-ch="">
-                      W
-                    </span>
-                    <span style={{ "--i": "119" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "120" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "121" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "122" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "123" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "124" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "125" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "112" } as CSSProperties} data-ch="">
                       a
                     </span>
+                    <span style={{ "--i": "113" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "114" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "115" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "116" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "117" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "118" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "119" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "120" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "121" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "122" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "123" } as CSSProperties} data-ch="">
+                      f
+                    </span>
+                    <span style={{ "--i": "124" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "125" } as CSSProperties} data-ch="">
+                      r
+                    </span>
                     <span style={{ "--i": "126" } as CSSProperties} data-ch="">
-                      y
+                      m
                     </span>
                     <span style={{ "--i": "127" } as CSSProperties} data-ch="">
-                      ,
+                      s
                     </span>
                   </span>
                   {" "}
@@ -1632,131 +1641,38 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "128" } as CSSProperties} data-ch="">
-                      a
+                      t
                     </span>
                     <span style={{ "--i": "129" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "130" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "131" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "132" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "133" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "134" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "135" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "136" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "137" } as CSSProperties} data-ch="">
-                      k
-                    </span>
-                    <span style={{ "--i": "138" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "139" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "140" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "141" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "142" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "143" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "144" } as CSSProperties} data-ch="">
                       a
                     </span>
-                    <span style={{ "--i": "145" } as CSSProperties} data-ch="">
-                      t
+                    <span style={{ "--i": "130" } as CSSProperties} data-ch="">
+                      k
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "146" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "147" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "148" } as CSSProperties} data-ch="">
-                      p
-                    </span>
-                    <span style={{ "--i": "149" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "150" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "151" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "152" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "153" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "154" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "155" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "156" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "131" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "157" } as CSSProperties} data-ch="">
-                      n
+                    <span style={{ "--i": "132" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "158" } as CSSProperties} data-ch="">
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "133" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "134" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "135" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "136" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "137" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -1764,25 +1680,98 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "159" } as CSSProperties} data-ch="">
-                      S
+                    <span style={{ "--i": "138" } as CSSProperties} data-ch="">
+                      I
                     </span>
-                    <span style={{ "--i": "160" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "139" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "140" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "141" } as CSSProperties} data-ch="">
                       o
+                    </span>
+                    <span style={{ "--i": "142" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "143" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "144" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "145" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "146" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "147" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "148" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "149" } as CSSProperties} data-ch="">
+                      t
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "161" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "150" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "151" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "152" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "153" } as CSSProperties} data-ch="">
                       t
                     </span>
+                    <span style={{ "--i": "154" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "155" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "156" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "157" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "158" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "159" } as CSSProperties} data-ch="">
+                      k
+                    </span>
+                    <span style={{ "--i": "160" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "161" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "162" } as CSSProperties} data-ch="">
-                      h
+                      i
                     </span>
                     <span style={{ "--i": "163" } as CSSProperties} data-ch="">
-                      e
+                      t
                     </span>
                   </span>
                   {" "}
@@ -1790,33 +1779,33 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "164" } as CSSProperties} data-ch="">
-                      p
+                      h
                     </span>
                     <span style={{ "--i": "165" } as CSSProperties} data-ch="">
                       a
                     </span>
                     <span style={{ "--i": "166" } as CSSProperties} data-ch="">
-                      g
+                      r
                     </span>
                     <span style={{ "--i": "167" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "168" } as CSSProperties} data-ch="">
                       e
+                    </span>
+                    <span style={{ "--i": "169" } as CSSProperties} data-ch="">
+                      r
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "168" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "169" } as CSSProperties} data-ch="">
-                      o
-                    </span>
                     <span style={{ "--i": "170" } as CSSProperties} data-ch="">
-                      e
+                      t
                     </span>
                     <span style={{ "--i": "171" } as CSSProperties} data-ch="">
-                      s
+                      o
                     </span>
                   </span>
                   {" "}
@@ -1824,32 +1813,55 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "172" } as CSSProperties} data-ch="">
-                      q
+                      s
                     </span>
                     <span style={{ "--i": "173" } as CSSProperties} data-ch="">
-                      u
+                      t
                     </span>
                     <span style={{ "--i": "174" } as CSSProperties} data-ch="">
-                      i
+                      a
                     </span>
                     <span style={{ "--i": "175" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "176" } as CSSProperties} data-ch="">
-                      t
+                      y
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "176" } as CSSProperties} data-ch="">
+                      v
+                    </span>
                     <span style={{ "--i": "177" } as CSSProperties} data-ch="">
-                      a
+                      i
                     </span>
                     <span style={{ "--i": "178" } as CSSProperties} data-ch="">
-                      n
+                      s
                     </span>
                     <span style={{ "--i": "179" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "180" } as CSSProperties} data-ch="">
+                      b
+                    </span>
+                    <span style={{ "--i": "181" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "182" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "183" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "184" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "185" } as CSSProperties} data-ch="">
                       d
                     </span>
                   </span>
@@ -1857,57 +1869,77 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "180" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "186" } as CSSProperties} data-ch="">
                       c
                     </span>
-                    <span style={{ "--i": "181" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "182" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "183" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "184" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "187" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "185" } as CSSProperties} data-ch="">
-                      m
+                    <span style={{ "--i": "188" } as CSSProperties} data-ch="">
+                      n
                     </span>
-                    <span style={{ "--i": "186" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "189" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "190" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "187" } as CSSProperties} data-ch="">
-                      r
+                    <span style={{ "--i": "191" } as CSSProperties} data-ch="">
+                      c
                     </span>
-                    <span style={{ "--i": "188" } as CSSProperties} data-ch="">
-                      s
+                    <span style={{ "--i": "192" } as CSSProperties} data-ch="">
+                      t
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "189" } as CSSProperties} data-ch="">
-                      f
-                    </span>
-                    <span style={{ "--i": "190" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "191" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "192" } as CSSProperties} data-ch="">
-                      g
-                    </span>
                     <span style={{ "--i": "193" } as CSSProperties} data-ch="">
-                      e
+                      w
                     </span>
                     <span style={{ "--i": "194" } as CSSProperties} data-ch="">
-                      t
+                      i
                     </span>
                     <span style={{ "--i": "195" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "196" } as CSSProperties} data-ch="">
+                      h
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "197" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "198" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "199" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "200" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "201" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "202" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "203" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "204" } as CSSProperties} data-ch="">
+                      r
+                    </span>
+                    <span style={{ "--i": "205" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "206" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -1915,10 +1947,10 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "196" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "207" } as CSSProperties} data-ch="">
                       W
                     </span>
-                    <span style={{ "--i": "197" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "208" } as CSSProperties} data-ch="">
                       e
                     </span>
                   </span>
@@ -1926,59 +1958,59 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "198" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "209" } as CSSProperties} data-ch="">
                       b
                     </span>
-                    <span style={{ "--i": "199" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "210" } as CSSProperties} data-ch="">
                       u
                     </span>
-                    <span style={{ "--i": "200" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "201" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "202" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "203" } as CSSProperties} data-ch="">
-                      P
-                    </span>
-                    <span style={{ "--i": "204" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "205" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "206" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "207" } as CSSProperties} data-ch="">
-                      S
-                    </span>
-                    <span style={{ "--i": "208" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                    <span style={{ "--i": "209" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "210" } as CSSProperties} data-ch="">
-                      Q
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "211" } as CSSProperties} data-ch="">
-                      t
+                      i
                     </span>
                     <span style={{ "--i": "212" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "213" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "214" } as CSSProperties} data-ch="">
+                      P
+                    </span>
+                    <span style={{ "--i": "215" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "216" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "217" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "218" } as CSSProperties} data-ch="">
+                      S
+                    </span>
+                    <span style={{ "--i": "219" } as CSSProperties} data-ch="">
+                      y
+                    </span>
+                    <span style={{ "--i": "220" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "221" } as CSSProperties} data-ch="">
+                      q
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "222" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "223" } as CSSProperties} data-ch="">
                       o
                     </span>
                   </span>
@@ -1986,33 +2018,39 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "213" } as CSSProperties} data-ch="">
-                      f
+                    <span style={{ "--i": "224" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "214" } as CSSProperties} data-ch="">
-                      i
+                    <span style={{ "--i": "225" } as CSSProperties} data-ch="">
+                      o
                     </span>
-                    <span style={{ "--i": "215" } as CSSProperties} data-ch="">
-                      x
+                    <span style={{ "--i": "226" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "227" } as CSSProperties} data-ch="">
+                      v
+                    </span>
+                    <span style={{ "--i": "228" } as CSSProperties} data-ch="">
+                      e
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "216" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "229" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "217" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "230" } as CSSProperties} data-ch="">
                       h
                     </span>
-                    <span style={{ "--i": "218" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "231" } as CSSProperties} data-ch="">
                       a
                     </span>
-                    <span style={{ "--i": "219" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "232" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "220" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "233" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -2020,74 +2058,76 @@ export default function HomePage() {
               </p>
             </div>
             <div className="ssr-variant hidden-lkre0h hidden-1yeacn0">
-              <p style={{ margin: 0, width: "100%", fontFamily: "\"Onest\", \"Onest\", system-ui, sans-serif", fontSize: "32px", fontWeight: 500, lineHeight: "1.2em", letterSpacing: "-0.02em", textAlign: "center", color: "rgb(196, 201, 203)", maxWidth: "100%", "--sr-light": "rgb(196, 201, 203)" } as CSSProperties} aria-label="Most small businesses don’t struggle with their product. They struggle with posting, every platform wants its own version, ideas run out by Wednesday, and nobody knows what to post or when. So the page goes quiet and customers forget. We built PostSynQ to fix that." data-scroll-reveal="">
+              <p style={{ margin: 0, width: "100%", fontFamily: "\"Onest\", \"Onest\", system-ui, sans-serif", fontSize: "32px", fontWeight: 500, lineHeight: "1.2em", letterSpacing: "-0.02em", textAlign: "center", color: "rgb(196, 201, 203)", maxWidth: "100%", "--sr-light": "rgb(196, 201, 203)" } as CSSProperties} aria-label="Running a business is already a full-time job. Finding content ideas, designing posts, writing captions and managing multiple social media platforms takes time. Inconsistent posting makes it harder to stay visible and connect with customers. We built PostSynq to solve that." data-scroll-reveal="">
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "0" } as CSSProperties} data-ch="">
-                      M
+                      R
                     </span>
                     <span style={{ "--i": "1" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "2" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "3" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "4" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "5" } as CSSProperties} data-ch="">
-                      m
-                    </span>
-                    <span style={{ "--i": "6" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "7" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "8" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "9" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "10" } as CSSProperties} data-ch="">
                       u
                     </span>
-                    <span style={{ "--i": "11" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "12" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "13" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "2" } as CSSProperties} data-ch="">
                       n
                     </span>
-                    <span style={{ "--i": "14" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "3" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "4" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "5" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "6" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "7" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "8" } as CSSProperties} data-ch="">
+                      b
+                    </span>
+                    <span style={{ "--i": "9" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "10" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "11" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "12" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "13" } as CSSProperties} data-ch="">
                       e
+                    </span>
+                    <span style={{ "--i": "14" } as CSSProperties} data-ch="">
+                      s
                     </span>
                     <span style={{ "--i": "15" } as CSSProperties} data-ch="">
                       s
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "16" } as CSSProperties} data-ch="">
-                      s
+                      i
                     </span>
                     <span style={{ "--i": "17" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "18" } as CSSProperties} data-ch="">
                       s
                     </span>
                   </span>
@@ -2095,114 +2135,82 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "18" } as CSSProperties} data-ch="">
+                      a
+                    </span>
                     <span style={{ "--i": "19" } as CSSProperties} data-ch="">
-                      d
+                      l
                     </span>
                     <span style={{ "--i": "20" } as CSSProperties} data-ch="">
-                      o
+                      r
                     </span>
                     <span style={{ "--i": "21" } as CSSProperties} data-ch="">
-                      n
+                      e
                     </span>
                     <span style={{ "--i": "22" } as CSSProperties} data-ch="">
-                      ’
+                      a
                     </span>
                     <span style={{ "--i": "23" } as CSSProperties} data-ch="">
-                      t
+                      d
+                    </span>
+                    <span style={{ "--i": "24" } as CSSProperties} data-ch="">
+                      y
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "24" } as CSSProperties} data-ch="">
-                      s
-                    </span>
                     <span style={{ "--i": "25" } as CSSProperties} data-ch="">
-                      t
+                      a
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "26" } as CSSProperties} data-ch="">
-                      r
+                      f
                     </span>
                     <span style={{ "--i": "27" } as CSSProperties} data-ch="">
                       u
                     </span>
                     <span style={{ "--i": "28" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "29" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "30" } as CSSProperties} data-ch="">
                       l
                     </span>
-                    <span style={{ "--i": "31" } as CSSProperties} data-ch="">
-                      e
+                    <span style={{ "--i": "29" } as CSSProperties} data-ch="">
+                      l
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "30" } as CSSProperties} data-ch="">
+                      -
+                    </span>
+                    <span style={{ "--i": "31" } as CSSProperties} data-ch="">
+                      t
+                    </span>
                     <span style={{ "--i": "32" } as CSSProperties} data-ch="">
-                      w
+                      i
                     </span>
                     <span style={{ "--i": "33" } as CSSProperties} data-ch="">
-                      i
+                      m
                     </span>
                     <span style={{ "--i": "34" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "35" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "36" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "37" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "38" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "39" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "40" } as CSSProperties} data-ch="">
-                      r
-                    </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "41" } as CSSProperties} data-ch="">
-                      p
+                    <span style={{ "--i": "35" } as CSSProperties} data-ch="">
+                      j
                     </span>
-                    <span style={{ "--i": "42" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "43" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "36" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "44" } as CSSProperties} data-ch="">
-                      d
+                    <span style={{ "--i": "37" } as CSSProperties} data-ch="">
+                      b
                     </span>
-                    <span style={{ "--i": "45" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "46" } as CSSProperties} data-ch="">
-                      c
-                    </span>
-                    <span style={{ "--i": "47" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "48" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "38" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -2210,17 +2218,52 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "39" } as CSSProperties} data-ch="">
+                      F
+                    </span>
+                    <span style={{ "--i": "40" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "41" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "42" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "43" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "44" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "45" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "46" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "47" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "48" } as CSSProperties} data-ch="">
+                      n
+                    </span>
                     <span style={{ "--i": "49" } as CSSProperties} data-ch="">
-                      T
+                      t
                     </span>
                     <span style={{ "--i": "50" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "51" } as CSSProperties} data-ch="">
                       e
                     </span>
+                    <span style={{ "--i": "51" } as CSSProperties} data-ch="">
+                      n
+                    </span>
                     <span style={{ "--i": "52" } as CSSProperties} data-ch="">
-                      y
+                      t
                     </span>
                   </span>
                   {" "}
@@ -2228,199 +2271,76 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "53" } as CSSProperties} data-ch="">
-                      s
+                      i
                     </span>
                     <span style={{ "--i": "54" } as CSSProperties} data-ch="">
-                      t
+                      d
                     </span>
                     <span style={{ "--i": "55" } as CSSProperties} data-ch="">
-                      r
+                      e
                     </span>
                     <span style={{ "--i": "56" } as CSSProperties} data-ch="">
-                      u
+                      a
                     </span>
                     <span style={{ "--i": "57" } as CSSProperties} data-ch="">
-                      g
+                      s
                     </span>
                     <span style={{ "--i": "58" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "59" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "60" } as CSSProperties} data-ch="">
-                      e
+                      ,
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "59" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "60" } as CSSProperties} data-ch="">
+                      e
+                    </span>
                     <span style={{ "--i": "61" } as CSSProperties} data-ch="">
-                      w
+                      s
                     </span>
                     <span style={{ "--i": "62" } as CSSProperties} data-ch="">
                       i
                     </span>
                     <span style={{ "--i": "63" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "64" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "65" } as CSSProperties} data-ch="">
-                      p
-                    </span>
-                    <span style={{ "--i": "66" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "67" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "68" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "69" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "70" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "71" } as CSSProperties} data-ch="">
                       g
                     </span>
-                    <span style={{ "--i": "72" } as CSSProperties} data-ch="">
-                      ,
+                    <span style={{ "--i": "64" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "65" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "66" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "67" } as CSSProperties} data-ch="">
+                      g
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "73" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "74" } as CSSProperties} data-ch="">
-                      v
-                    </span>
-                    <span style={{ "--i": "75" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "76" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "77" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "78" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "68" } as CSSProperties} data-ch="">
                       p
                     </span>
-                    <span style={{ "--i": "79" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "80" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "81" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "82" } as CSSProperties} data-ch="">
-                      f
-                    </span>
-                    <span style={{ "--i": "83" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "69" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "84" } as CSSProperties} data-ch="">
-                      r
+                    <span style={{ "--i": "70" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "85" } as CSSProperties} data-ch="">
-                      m
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "86" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "87" } as CSSProperties} data-ch="">
-                      a
-                    </span>
-                    <span style={{ "--i": "88" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "89" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "71" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "90" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "72" } as CSSProperties} data-ch="">
                       s
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "91" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "92" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "93" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "94" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "95" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "96" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "97" } as CSSProperties} data-ch="">
-                      v
-                    </span>
-                    <span style={{ "--i": "98" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "99" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "100" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "101" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "102" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "103" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "104" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "73" } as CSSProperties} data-ch="">
                       ,
                     </span>
                   </span>
@@ -2428,94 +2348,202 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "105" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "74" } as CSSProperties} data-ch="">
+                      w
+                    </span>
+                    <span style={{ "--i": "75" } as CSSProperties} data-ch="">
+                      r
+                    </span>
+                    <span style={{ "--i": "76" } as CSSProperties} data-ch="">
                       i
                     </span>
-                    <span style={{ "--i": "106" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "77" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "78" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "79" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "80" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "81" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "82" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "83" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "84" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "85" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "86" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "87" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "88" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "89" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "90" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "91" } as CSSProperties} data-ch="">
                       d
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "92" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "93" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "94" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "95" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "96" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                    <span style={{ "--i": "97" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "98" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "99" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "100" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "101" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "102" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "103" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "104" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "105" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "106" } as CSSProperties} data-ch="">
+                      l
                     </span>
                     <span style={{ "--i": "107" } as CSSProperties} data-ch="">
                       e
                     </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "108" } as CSSProperties} data-ch="">
-                      a
+                      s
                     </span>
                     <span style={{ "--i": "109" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "110" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "111" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "112" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "113" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "114" } as CSSProperties} data-ch="">
-                      u
+                    <span style={{ "--i": "110" } as CSSProperties} data-ch="">
+                      c
                     </span>
-                    <span style={{ "--i": "115" } as CSSProperties} data-ch="">
-                      t
+                    <span style={{ "--i": "111" } as CSSProperties} data-ch="">
+                      i
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "116" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "117" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "118" } as CSSProperties} data-ch="">
-                      W
-                    </span>
-                    <span style={{ "--i": "119" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "120" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "121" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "122" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "123" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "124" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "125" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "112" } as CSSProperties} data-ch="">
                       a
                     </span>
+                    <span style={{ "--i": "113" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "114" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "115" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "116" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "117" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "118" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "119" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "120" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "121" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "122" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "123" } as CSSProperties} data-ch="">
+                      f
+                    </span>
+                    <span style={{ "--i": "124" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "125" } as CSSProperties} data-ch="">
+                      r
+                    </span>
                     <span style={{ "--i": "126" } as CSSProperties} data-ch="">
-                      y
+                      m
                     </span>
                     <span style={{ "--i": "127" } as CSSProperties} data-ch="">
-                      ,
+                      s
                     </span>
                   </span>
                   {" "}
@@ -2523,131 +2551,38 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "128" } as CSSProperties} data-ch="">
-                      a
+                      t
                     </span>
                     <span style={{ "--i": "129" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "130" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "131" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "132" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "133" } as CSSProperties} data-ch="">
-                      b
-                    </span>
-                    <span style={{ "--i": "134" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "135" } as CSSProperties} data-ch="">
-                      d
-                    </span>
-                    <span style={{ "--i": "136" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "137" } as CSSProperties} data-ch="">
-                      k
-                    </span>
-                    <span style={{ "--i": "138" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "139" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "140" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "141" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "142" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "143" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "144" } as CSSProperties} data-ch="">
                       a
                     </span>
-                    <span style={{ "--i": "145" } as CSSProperties} data-ch="">
-                      t
+                    <span style={{ "--i": "130" } as CSSProperties} data-ch="">
+                      k
                     </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "146" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "147" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "148" } as CSSProperties} data-ch="">
-                      p
-                    </span>
-                    <span style={{ "--i": "149" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "150" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "151" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "152" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "153" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "154" } as CSSProperties} data-ch="">
-                      w
-                    </span>
-                    <span style={{ "--i": "155" } as CSSProperties} data-ch="">
-                      h
-                    </span>
-                    <span style={{ "--i": "156" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "131" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "157" } as CSSProperties} data-ch="">
-                      n
+                    <span style={{ "--i": "132" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "158" } as CSSProperties} data-ch="">
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "133" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "134" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "135" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "136" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "137" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -2655,25 +2590,98 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "159" } as CSSProperties} data-ch="">
-                      S
+                    <span style={{ "--i": "138" } as CSSProperties} data-ch="">
+                      I
                     </span>
-                    <span style={{ "--i": "160" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "139" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "140" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "141" } as CSSProperties} data-ch="">
                       o
+                    </span>
+                    <span style={{ "--i": "142" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "143" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "144" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "145" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "146" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "147" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "148" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "149" } as CSSProperties} data-ch="">
+                      t
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "161" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "150" } as CSSProperties} data-ch="">
+                      p
+                    </span>
+                    <span style={{ "--i": "151" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "152" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "153" } as CSSProperties} data-ch="">
                       t
                     </span>
+                    <span style={{ "--i": "154" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "155" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "156" } as CSSProperties} data-ch="">
+                      g
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "157" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "158" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "159" } as CSSProperties} data-ch="">
+                      k
+                    </span>
+                    <span style={{ "--i": "160" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "161" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "162" } as CSSProperties} data-ch="">
-                      h
+                      i
                     </span>
                     <span style={{ "--i": "163" } as CSSProperties} data-ch="">
-                      e
+                      t
                     </span>
                   </span>
                   {" "}
@@ -2681,33 +2689,33 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "164" } as CSSProperties} data-ch="">
-                      p
+                      h
                     </span>
                     <span style={{ "--i": "165" } as CSSProperties} data-ch="">
                       a
                     </span>
                     <span style={{ "--i": "166" } as CSSProperties} data-ch="">
-                      g
+                      r
                     </span>
                     <span style={{ "--i": "167" } as CSSProperties} data-ch="">
+                      d
+                    </span>
+                    <span style={{ "--i": "168" } as CSSProperties} data-ch="">
                       e
+                    </span>
+                    <span style={{ "--i": "169" } as CSSProperties} data-ch="">
+                      r
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "168" } as CSSProperties} data-ch="">
-                      g
-                    </span>
-                    <span style={{ "--i": "169" } as CSSProperties} data-ch="">
-                      o
-                    </span>
                     <span style={{ "--i": "170" } as CSSProperties} data-ch="">
-                      e
+                      t
                     </span>
                     <span style={{ "--i": "171" } as CSSProperties} data-ch="">
-                      s
+                      o
                     </span>
                   </span>
                   {" "}
@@ -2715,32 +2723,55 @@ export default function HomePage() {
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "172" } as CSSProperties} data-ch="">
-                      q
+                      s
                     </span>
                     <span style={{ "--i": "173" } as CSSProperties} data-ch="">
-                      u
+                      t
                     </span>
                     <span style={{ "--i": "174" } as CSSProperties} data-ch="">
-                      i
+                      a
                     </span>
                     <span style={{ "--i": "175" } as CSSProperties} data-ch="">
-                      e
-                    </span>
-                    <span style={{ "--i": "176" } as CSSProperties} data-ch="">
-                      t
+                      y
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "176" } as CSSProperties} data-ch="">
+                      v
+                    </span>
                     <span style={{ "--i": "177" } as CSSProperties} data-ch="">
-                      a
+                      i
                     </span>
                     <span style={{ "--i": "178" } as CSSProperties} data-ch="">
-                      n
+                      s
                     </span>
                     <span style={{ "--i": "179" } as CSSProperties} data-ch="">
+                      i
+                    </span>
+                    <span style={{ "--i": "180" } as CSSProperties} data-ch="">
+                      b
+                    </span>
+                    <span style={{ "--i": "181" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "182" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "183" } as CSSProperties} data-ch="">
+                      a
+                    </span>
+                    <span style={{ "--i": "184" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "185" } as CSSProperties} data-ch="">
                       d
                     </span>
                   </span>
@@ -2748,57 +2779,77 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "180" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "186" } as CSSProperties} data-ch="">
                       c
                     </span>
-                    <span style={{ "--i": "181" } as CSSProperties} data-ch="">
-                      u
-                    </span>
-                    <span style={{ "--i": "182" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "183" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "184" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "187" } as CSSProperties} data-ch="">
                       o
                     </span>
-                    <span style={{ "--i": "185" } as CSSProperties} data-ch="">
-                      m
+                    <span style={{ "--i": "188" } as CSSProperties} data-ch="">
+                      n
                     </span>
-                    <span style={{ "--i": "186" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "189" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "190" } as CSSProperties} data-ch="">
                       e
                     </span>
-                    <span style={{ "--i": "187" } as CSSProperties} data-ch="">
-                      r
+                    <span style={{ "--i": "191" } as CSSProperties} data-ch="">
+                      c
                     </span>
-                    <span style={{ "--i": "188" } as CSSProperties} data-ch="">
-                      s
+                    <span style={{ "--i": "192" } as CSSProperties} data-ch="">
+                      t
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "189" } as CSSProperties} data-ch="">
-                      f
-                    </span>
-                    <span style={{ "--i": "190" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "191" } as CSSProperties} data-ch="">
-                      r
-                    </span>
-                    <span style={{ "--i": "192" } as CSSProperties} data-ch="">
-                      g
-                    </span>
                     <span style={{ "--i": "193" } as CSSProperties} data-ch="">
-                      e
+                      w
                     </span>
                     <span style={{ "--i": "194" } as CSSProperties} data-ch="">
-                      t
+                      i
                     </span>
                     <span style={{ "--i": "195" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "196" } as CSSProperties} data-ch="">
+                      h
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "197" } as CSSProperties} data-ch="">
+                      c
+                    </span>
+                    <span style={{ "--i": "198" } as CSSProperties} data-ch="">
+                      u
+                    </span>
+                    <span style={{ "--i": "199" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "200" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "201" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "202" } as CSSProperties} data-ch="">
+                      m
+                    </span>
+                    <span style={{ "--i": "203" } as CSSProperties} data-ch="">
+                      e
+                    </span>
+                    <span style={{ "--i": "204" } as CSSProperties} data-ch="">
+                      r
+                    </span>
+                    <span style={{ "--i": "205" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "206" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -2806,10 +2857,10 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "196" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "207" } as CSSProperties} data-ch="">
                       W
                     </span>
-                    <span style={{ "--i": "197" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "208" } as CSSProperties} data-ch="">
                       e
                     </span>
                   </span>
@@ -2817,59 +2868,59 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "198" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "209" } as CSSProperties} data-ch="">
                       b
                     </span>
-                    <span style={{ "--i": "199" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "210" } as CSSProperties} data-ch="">
                       u
                     </span>
-                    <span style={{ "--i": "200" } as CSSProperties} data-ch="">
-                      i
-                    </span>
-                    <span style={{ "--i": "201" } as CSSProperties} data-ch="">
-                      l
-                    </span>
-                    <span style={{ "--i": "202" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "203" } as CSSProperties} data-ch="">
-                      P
-                    </span>
-                    <span style={{ "--i": "204" } as CSSProperties} data-ch="">
-                      o
-                    </span>
-                    <span style={{ "--i": "205" } as CSSProperties} data-ch="">
-                      s
-                    </span>
-                    <span style={{ "--i": "206" } as CSSProperties} data-ch="">
-                      t
-                    </span>
-                    <span style={{ "--i": "207" } as CSSProperties} data-ch="">
-                      S
-                    </span>
-                    <span style={{ "--i": "208" } as CSSProperties} data-ch="">
-                      y
-                    </span>
-                    <span style={{ "--i": "209" } as CSSProperties} data-ch="">
-                      n
-                    </span>
-                    <span style={{ "--i": "210" } as CSSProperties} data-ch="">
-                      Q
-                    </span>
-                  </span>
-                  {" "}
-                </span>
-                <span aria-hidden="true">
-                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
                     <span style={{ "--i": "211" } as CSSProperties} data-ch="">
-                      t
+                      i
                     </span>
                     <span style={{ "--i": "212" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "213" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "214" } as CSSProperties} data-ch="">
+                      P
+                    </span>
+                    <span style={{ "--i": "215" } as CSSProperties} data-ch="">
+                      o
+                    </span>
+                    <span style={{ "--i": "216" } as CSSProperties} data-ch="">
+                      s
+                    </span>
+                    <span style={{ "--i": "217" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "218" } as CSSProperties} data-ch="">
+                      S
+                    </span>
+                    <span style={{ "--i": "219" } as CSSProperties} data-ch="">
+                      y
+                    </span>
+                    <span style={{ "--i": "220" } as CSSProperties} data-ch="">
+                      n
+                    </span>
+                    <span style={{ "--i": "221" } as CSSProperties} data-ch="">
+                      q
+                    </span>
+                  </span>
+                  {" "}
+                </span>
+                <span aria-hidden="true">
+                  <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
+                    <span style={{ "--i": "222" } as CSSProperties} data-ch="">
+                      t
+                    </span>
+                    <span style={{ "--i": "223" } as CSSProperties} data-ch="">
                       o
                     </span>
                   </span>
@@ -2877,33 +2928,39 @@ export default function HomePage() {
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "213" } as CSSProperties} data-ch="">
-                      f
+                    <span style={{ "--i": "224" } as CSSProperties} data-ch="">
+                      s
                     </span>
-                    <span style={{ "--i": "214" } as CSSProperties} data-ch="">
-                      i
+                    <span style={{ "--i": "225" } as CSSProperties} data-ch="">
+                      o
                     </span>
-                    <span style={{ "--i": "215" } as CSSProperties} data-ch="">
-                      x
+                    <span style={{ "--i": "226" } as CSSProperties} data-ch="">
+                      l
+                    </span>
+                    <span style={{ "--i": "227" } as CSSProperties} data-ch="">
+                      v
+                    </span>
+                    <span style={{ "--i": "228" } as CSSProperties} data-ch="">
+                      e
                     </span>
                   </span>
                   {" "}
                 </span>
                 <span aria-hidden="true">
                   <span style={{ display: "inline-block", whiteSpace: "nowrap" } as CSSProperties}>
-                    <span style={{ "--i": "216" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "229" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "217" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "230" } as CSSProperties} data-ch="">
                       h
                     </span>
-                    <span style={{ "--i": "218" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "231" } as CSSProperties} data-ch="">
                       a
                     </span>
-                    <span style={{ "--i": "219" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "232" } as CSSProperties} data-ch="">
                       t
                     </span>
-                    <span style={{ "--i": "220" } as CSSProperties} data-ch="">
+                    <span style={{ "--i": "233" } as CSSProperties} data-ch="">
                       .
                     </span>
                   </span>
@@ -2932,7 +2989,7 @@ export default function HomePage() {
                 <div className="ssr-variant hidden-lkre0h hidden-1n4zf07">
                   <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "36px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.1em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                     <span>
-                      {"Everything you \nneed, all in "}
+                      {"Manage your entire social media\nworkflow in "}
                     </span>
                     <span style={{ position: "relative", display: "inline-block", verticalAlign: "baseline" } as CSSProperties}>
                       <span style={{ position: "relative", zIndex: 2, color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "36px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.1em" } as CSSProperties}>
@@ -2940,13 +2997,15 @@ export default function HomePage() {
                       </span>
                       <span aria-hidden="true" style={{ position: "absolute", left: "52%", top: "60%", transform: "translate(-50%, -40%)", zIndex: 1, display: "block", width: "110%", height: "21.599999999999998px", background: "var(--token-50f7c55d-562d-4beb-9e4e-86ed7b4f818d, rgb(224, 255, 130))", WebkitMaskImage: "url(https://iili.io/3mubJdg.png)", maskImage: "url(https://iili.io/3mubJdg.png)", WebkitMaskRepeat: "no-repeat", maskRepeat: "no-repeat", WebkitMaskSize: "100% 100%", maskSize: "100% 100%", WebkitMaskPosition: "center", maskPosition: "center", pointerEvents: "none" } as CSSProperties} />
                     </span>
-                    <span />
+                    <span>
+                      .
+                    </span>
                   </h2>
                 </div>
                 <div className="ssr-variant hidden-1yeacn0">
                   <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.1em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                     <span>
-                      {"Everything you \nneed, all in "}
+                      {"Manage your entire social media\nworkflow in "}
                     </span>
                     <span style={{ position: "relative", display: "inline-block", verticalAlign: "baseline" } as CSSProperties}>
                       <span style={{ position: "relative", zIndex: 2, color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "32px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.1em" } as CSSProperties}>
@@ -2954,7 +3013,9 @@ export default function HomePage() {
                       </span>
                       <span aria-hidden="true" style={{ position: "absolute", left: "52%", top: "60%", transform: "translate(-50%, -40%)", zIndex: 1, display: "block", width: "110%", height: "19.2px", background: "var(--token-50f7c55d-562d-4beb-9e4e-86ed7b4f818d, rgb(224, 255, 130))", WebkitMaskImage: "url(https://iili.io/3mubJdg.png)", maskImage: "url(https://iili.io/3mubJdg.png)", WebkitMaskRepeat: "no-repeat", maskRepeat: "no-repeat", WebkitMaskSize: "100% 100%", maskSize: "100% 100%", WebkitMaskPosition: "center", maskPosition: "center", pointerEvents: "none" } as CSSProperties} />
                     </span>
-                    <span />
+                    <span>
+                      .
+                    </span>
                   </h2>
                 </div>
               </div>
@@ -3185,13 +3246,13 @@ export default function HomePage() {
                   <div className="framer-m5s8ww" data-framer-name="Title">
                     <div className="framer-174y89q" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <h6 className="framer-text framer-styles-preset-tg2l96" data-styles-preset="U7lSdSupu" dir="auto">
-                        Post everywhere in one go
+                        Publish across multiple channels
                       </h6>
                     </div>
                   </div>
                   <div className="framer-1vll7jo" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                     <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties}>
-                      Create once, customise it for each platform, and publish to all of them together.
+                      Create once, customise for each platform and publish across your connected social media channels.
                     </p>
                   </div>
                 </div>
@@ -3378,7 +3439,7 @@ export default function HomePage() {
                   <div className="framer-1tf0mbm" data-framer-name="Title">
                     <div className="framer-po16l3" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <h6 className="framer-text framer-styles-preset-tg2l96" data-styles-preset="U7lSdSupu" dir="auto">
-                        Calendar, done for you
+                        AI-powered content calendar
                       </h6>
                     </div>
                     <div className="framer-1ncenzp" data-framer-name="TagNew">
@@ -3391,7 +3452,7 @@ export default function HomePage() {
                   </div>
                   <div className="framer-pnr41e" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                     <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties}>
-                      We plan a full calendar of posts for you. Approve them and they go live.
+                      Get a personalised content plan for your business. Review, approve and let PostSynq publish it.
                     </p>
                   </div>
                 </div>
@@ -3531,18 +3592,18 @@ export default function HomePage() {
                   <div className="framer-1sfzfu5" data-framer-name="Title">
                     <div className="framer-184pz48" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <h6 className="framer-text framer-styles-preset-tg2l96" data-styles-preset="U7lSdSupu" dir="auto">
-                        Synq AI creates your posts
+                        Create content with Synq AI
                       </h6>
                     </div>
                   </div>
                   <div className="framer-4jsw7o" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                     <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties}>
                       <span style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties} className="framer-text">
-                        Tell Synq AI what you need, and it
+                        Share your ideas with Synq AI and let it
                       </span>
                       <br className="framer-text" />
                       <span style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(115, 135, 135))" } as CSSProperties} className="framer-text">
-                        writes and designs the post for you.
+                        write and design social media content for your brand.
                       </span>
                     </p>
                   </div>
@@ -3585,12 +3646,12 @@ export default function HomePage() {
             <div className="framer-v2f2tn" data-framer-name="Title">
               <div className="framer-1ghdvm9" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <p className="framer-text framer-styles-preset-h286f8" data-styles-preset="Kx6I4vq_h" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(65, 87, 98))" } as CSSProperties}>
-                  automations
+                  AI-POWERED AUTOMATION
                 </p>
               </div>
               <div className="framer-ry0ww0" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <h4 className="framer-text framer-styles-preset-1mygqzp" data-styles-preset="GNdy0Lctx" dir="auto" style={{ "--framer-text-alignment": "left" } as CSSProperties}>
-                  Your social media, on autopilot
+                  Let AI create, manage and publish your social media content.
                 </h4>
               </div>
               <div className="framer-kn83qu" data-framer-name="Ilustration">
@@ -3616,12 +3677,12 @@ export default function HomePage() {
                   <div className="framer-gwlono" data-framer-name="Content">
                     <div className="framer-9pog8o" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        {"Vectorize & customise"}
+                        AI content creation
                       </p>
                     </div>
                     <div className="framer-q1zlbb" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-                        Turn any post into an editable vector, then change colours, text and layout.
+                        Generate and customise editable social media designs that match your brand.
                       </p>
                     </div>
                   </div>
@@ -3637,12 +3698,12 @@ export default function HomePage() {
                   <div className="framer-wm7y3c" data-framer-name="Content">
                     <div className="framer-w3y45y" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        Made from your references
+                        Personalised brand content
                       </p>
                     </div>
                     <div className="framer-red6h" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-                        Share your own photos and videos and get posts built around them.
+                        Turn your own photos, videos and references into engaging social media posts.
                       </p>
                     </div>
                   </div>
@@ -3660,12 +3721,12 @@ export default function HomePage() {
                   <div className="framer-p32kzm" data-framer-name="Content">
                     <div className="framer-1s9mpvf" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        Ready-made templates
+                        Ready-to-use templates
                       </p>
                     </div>
                     <div className="framer-zu15x9" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(89, 105, 105))" } as CSSProperties}>
-                        Carousels and posts already designed. Just add your details.
+                        Create professional posts and carousels without starting from scratch.
                       </p>
                     </div>
                   </div>
@@ -3681,12 +3742,12 @@ export default function HomePage() {
                   <div className="framer-6ycxif" data-framer-name="Content">
                     <div className="framer-1vtei7h" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        You approve, we post
+                        Automated publishing
                       </p>
                     </div>
                     <div className="framer-1x1a3l3" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(89, 105, 105))" } as CSSProperties}>
-                        Nothing goes live until you say yes. Then it posts everywhere.
+                        Approve your content and let PostSynq publish across connected channels.
                       </p>
                     </div>
                   </div>
@@ -3700,14 +3761,14 @@ export default function HomePage() {
             <div className="framer-sewrm" data-framer-name="Title">
               <div className="framer-1y32kez" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <p className="framer-text framer-styles-preset-h286f8" data-styles-preset="Kx6I4vq_h" dir="auto" style={{ "--framer-text-color": "rgb(60, 72, 83)" } as CSSProperties}>
-                  built for small businesses
+                  AI-POWERED CONTENT PLANNING
                 </p>
               </div>
               <div className="framer-izzryi" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <h4 className="framer-text framer-styles-preset-1mygqzp" data-styles-preset="GNdy0Lctx" dir="auto">
-                  Made for your
+                  Plan your social media
                   <br className="framer-text" />
-                  first year
+                  content and stay consistent as you grow.
                 </h4>
               </div>
             </div>
@@ -3724,12 +3785,12 @@ export default function HomePage() {
                   <div className="framer-1vs1r6b" data-framer-name="Content">
                     <div className="framer-y02vqc" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        Business-stage plans
+                        Personalised content plans
                       </p>
                     </div>
                     <div className="framer-1pzq2ml" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-                        Pick a plan made for aspirants, early-stage or growing brands.
+                        Get content plans tailored to your business stage and marketing goals.
                       </p>
                     </div>
                   </div>
@@ -3745,12 +3806,12 @@ export default function HomePage() {
                   <div className="framer-189bcuk" data-framer-name="Content">
                     <div className="framer-iv86x7" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        Your tone, your brand
+                        Consistent brand voice
                       </p>
                     </div>
                     <div className="framer-1sgkya6" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-                        Choose a tone once and every caption sounds like you.
+                        Set your brand preferences once and keep every post aligned with your identity.
                       </p>
                     </div>
                   </div>
@@ -3768,12 +3829,12 @@ export default function HomePage() {
                   <div className="framer-icsnlx" data-framer-name="Content">
                     <div className="framer-pus4lv" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        Synq AI agent
+                        Your Synq AI agent
                       </p>
                     </div>
                     <div className="framer-1j4g7wb" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-                        Tell it what you need. It writes, designs and schedules.
+                        Let AI write, design, plan and schedule content for your business.
                       </p>
                     </div>
                   </div>
@@ -3789,12 +3850,12 @@ export default function HomePage() {
                   <div className="framer-rp27bv" data-framer-name="Content">
                     <div className="framer-2xnqh9" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-1apfo51" data-styles-preset="sxipfz473" dir="auto">
-                        Clear insights
+                        Actionable social insights
                       </p>
                     </div>
                     <div className="framer-gnswzy" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                       <p className="framer-text framer-styles-preset-21ogod" data-styles-preset="xZndidUCt" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-                        Know what works and post more of it.
+                        Understand what works and improve your social media content strategy.
                       </p>
                     </div>
                   </div>
@@ -4046,21 +4107,21 @@ export default function HomePage() {
             <div className="ssr-variant hidden-lkre0h hidden-1n4zf07">
               <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.05em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                 <span>
-                  {"Less busywork,\nmore real work"}
+                  {"Spend less time posting and\nmore time growing your business."}
                 </span>
               </h2>
             </div>
             <div className="ssr-variant hidden-1yeacn0 hidden-1n4zf07">
               <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "38px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                 <span>
-                  {"Less busywork,\nmore real work"}
+                  {"Spend less time posting and\nmore time growing your business."}
                 </span>
               </h2>
             </div>
             <div className="ssr-variant hidden-lkre0h hidden-1yeacn0">
               <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "40px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.05em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                 <span>
-                  {"Less busywork,\nmore real work"}
+                  {"Spend less time posting and\nmore time growing your business."}
                 </span>
               </h2>
             </div>
@@ -4069,7 +4130,7 @@ export default function HomePage() {
         <div className="framer-f803h1" data-framer-name="Content">
           <div className="framer-5kke8f" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
             <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-alignment": "center", "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" } as CSSProperties}>
-              Connect your accounts once, then post to all of them in one go.
+              Connect your social media accounts once and manage your content and publishing from one platform.
             </p>
           </div>
           <div className="ssr-variant">
@@ -4109,21 +4170,21 @@ export default function HomePage() {
               <div className="ssr-variant hidden-lkre0h hidden-1n4zf07">
                 <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.05em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                   <span>
-                    {"Make social\nmedia simpler"}
+                    Turn your ideas into ready-to-publish social media content.
                   </span>
                 </h2>
               </div>
               <div className="ssr-variant hidden-1yeacn0 hidden-1n4zf07">
                 <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "38px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                   <span>
-                    {"Make social\nmedia simpler"}
+                    Turn your ideas into ready-to-publish social media content.
                   </span>
                 </h2>
               </div>
               <div className="ssr-variant hidden-lkre0h hidden-1yeacn0">
                 <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "40px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.05em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                   <span>
-                    {"Make social\nmedia simpler"}
+                    Turn your ideas into ready-to-publish social media content.
                   </span>
                 </h2>
               </div>
@@ -4131,7 +4192,7 @@ export default function HomePage() {
           </div>
           <div className="framer-1y97xvb" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
             <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-alignment": "center", "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-              Share a photo, a video or an idea. Synq AI turns it into ready-to-post content.
+              Share a photo, video or idea. Synq AI creates branded designs, captions and content for your social media channels.
             </p>
           </div>
         </div>
@@ -4491,21 +4552,21 @@ export default function HomePage() {
               <div className="ssr-variant hidden-lkre0h hidden-1n4zf07">
                 <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "48px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.05em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                   <span>
-                    {"Free for our\nfirst 100 users."}
+                    {"Get early access to AI-powered\nsocial media management."}
                   </span>
                 </h2>
               </div>
               <div className="ssr-variant hidden-1yeacn0 hidden-1n4zf07">
                 <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "38px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                   <span>
-                    {"Free for our\nfirst 100 users."}
+                    {"Get early access to AI-powered\nsocial media management."}
                   </span>
                 </h2>
               </div>
               <div className="ssr-variant hidden-lkre0h hidden-1yeacn0">
                 <h2 style={{ width: "100%", wordBreak: "break-word", overflowWrap: "break-word", display: "block", color: "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))", whiteSpace: "pre-line", textAlign: "center", fontFamily: "\"Onest\", \"Onest Placeholder\", sans-serif", fontSize: "40px", fontStyle: "normal", fontWeight: 500, letterSpacing: "-0.02em", lineHeight: "1.05em", margin: 0, padding: 0, marginBlockStart: 0, marginBlockEnd: 0 } as CSSProperties}>
                   <span>
-                    {"Free for our\nfirst 100 users."}
+                    {"Get early access to AI-powered\nsocial media management."}
                   </span>
                 </h2>
               </div>
@@ -4513,7 +4574,7 @@ export default function HomePage() {
           </div>
           <div className="framer-11bbfq3" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
             <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-alignment": "center", "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" } as CSSProperties}>
-              Early access to every PostSynq feature. Choose where to start.
+              Join our first 100 users and explore how PostSynq simplifies your social media workflow.
             </p>
           </div>
         </div>
@@ -4614,7 +4675,7 @@ export default function HomePage() {
         <div className="framer-14cwcp2" data-framer-name="Title">
           <div className="framer-1nczbff" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
             <h3 className="framer-text framer-styles-preset-12lj5ox" data-styles-preset="YckFIlg3V" dir="auto" style={{ "--framer-text-alignment": "left" } as CSSProperties}>
-              Get started in three simple steps
+              Automate your social media in three simple steps.
             </h3>
           </div>
         </div>
@@ -4630,12 +4691,12 @@ export default function HomePage() {
             <div className="framer-1brpc92" data-framer-name="Text">
               <div className="framer-1cn2zya" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <h5 className="framer-text framer-styles-preset-ew70cb" data-styles-preset="d2AofqtL8" dir="auto">
-                  {"1. Sign up & log in"}
+                  1. Create your account
                 </h5>
               </div>
               <div className="framer-14d7a8t" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" } as CSSProperties}>
-                  Create your account at postsynq.in, then log in to your PostSynq dashboard.
+                  Sign up and log in to your PostSynq dashboard.
                 </p>
               </div>
             </div>
@@ -4656,7 +4717,7 @@ export default function HomePage() {
               </div>
               <div className="framer-7stfey" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgb(90, 109, 119))" } as CSSProperties}>
-                  Link Instagram, Facebook, LinkedIn, X and Pinterest in a few clicks.
+                  Connect your supported social media accounts and set up your brand.
                 </p>
               </div>
             </div>
@@ -4677,7 +4738,7 @@ export default function HomePage() {
               </div>
               <div className="framer-to8u0" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <p className="framer-text framer-styles-preset-9oy5h3" data-styles-preset="j6DWcJyVn" dir="auto" style={{ "--framer-text-color": "var(--token-ea690d84-0c2d-4322-885a-8bb8fee7e329, rgba(3, 32, 43, 0.7))" } as CSSProperties}>
-                  Synq AI prepares your posts and calendar. Approve them and they go out everywhere.
+                  Let Synq AI prepare your content. Review, approve and publish across connected channels.
                 </p>
               </div>
             </div>
@@ -4695,13 +4756,13 @@ export default function HomePage() {
               </div>
               <div className="framer-2o02rr" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
                 <p className="framer-text framer-styles-preset-h286f8" data-styles-preset="Kx6I4vq_h" dir="auto">
-                  Automate with PostSynq
+                  AUTOMATE YOUR SOCIAL MEDIA
                 </p>
               </div>
             </div>
             <div className="framer-vye0e6" data-framer-component-type="RichTextContainer" style={{ transform: "none" } as CSSProperties}>
               <h3 className="framer-text framer-styles-preset-12lj5ox" data-styles-preset="YckFIlg3V" dir="auto" style={{ "--framer-text-alignment": "center", "--framer-text-color": "var(--token-54fbe6ca-60b1-4431-a556-3bdeb985788c, rgb(31, 34, 35))" } as CSSProperties}>
-                Be one of our first 100.
+                Let PostSynq handle your social media.
               </h3>
             </div>
             <div className="framer-7zqpn6" data-framer-name="Benefits">

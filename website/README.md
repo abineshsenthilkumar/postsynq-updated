@@ -82,6 +82,11 @@ refactor) before editing it by hand. Hand-written code:
   (`href={OFFICIAL_LINKS.app.signup}`), so a change here updates the whole site
   without re-running the pipeline. The rules that attach links Framer left out
   (footer social icons, Contact page icons and phone) are `prepLinks` in `convert.mjs`.
+- **Homepage copy**: `HOME_COPY`, `HOME_HEADINGS` and `HOME_STORY` in
+  `tools/framer-import/convert.mjs` replace the text of existing Framer elements (all
+  breakpoints; layout untouched). Each original text must still exist in the Framer page,
+  otherwise conversion stops. SEO title, description, canonical (`NEXT_PUBLIC_SITE_URL`,
+  default https://www.postsynq.in) and structured data: `app/page.tsx`.
 - `app/layout.tsx` - shared layout: Framer layout template + one navbar for every page
 - `app/_framer/Footer.tsx` (generated) - the one footer component; each page renders `<Footer variant>` inside its own breakpoint wrappers
 - `app/site.css` - small site-level additions (logo ticker, form status)

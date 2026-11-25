@@ -77,7 +77,9 @@ function parseStyle(text) {
     cur += c
   }
   out.push(cur)
-  return out.map(d => { const i = d.indexOf(":"); return i < 0 ? null : [d.slice(0, i).trim(), d.slice(i + 1).trim()] }).filter(d => d && d[0] && d[1] !== "")
+  const decls = out.map(d => { const i = d.indexOf(":"); return i < 0 ? null : [d.slice(0, i).trim(), d.slice(i + 1).trim()] }).filter(d => d && d[0] && d[1] !== "")
+  // A property set twice (e.g. an override appended by a prep step): the last one wins, as in CSS.
+  return [...new Map(decls.map(d => [d[0], d])).values()]
 }
 // Plain numbers become JS numbers (React treats zIndex/opacity/lineHeight etc. as unitless);
 // custom properties stay strings. The cast lets Framer's --custom-properties through.
@@ -274,6 +276,147 @@ function prepTeam(doc, key) {
       card.querySelectorAll("[data-framer-name='Links']").forEach(row => row.remove())
       n++
     })
+  }
+  return n
+}
+
+// ------------------------------------------------------------- home -------
+// Homepage copy (content replacement only). Every entry swaps the text of an
+// existing Framer text element, in all breakpoint variants; nothing is added,
+// removed, moved or restyled. Each original text must be found, otherwise the
+// conversion stops: a changed Framer design is noticed instead of being
+// silently half-updated. Runs before the text animations are prepared, so the
+// scroll-reveal paragraph animates the new words.
+const HOME_COPY = [
+  // [section (data-framer-name), original text, new text]
+  // 1. Hero (heading unchanged: "You Run Your Business. We Run Your Socials.")
+  ["Hero", "Create once and post to every social platform in one go. Synq AI writes, designs and plans the rest.",
+    "Running a business leaves little time for social media. PostSynq uses AI to create, plan, design and publish your content, so you can focus on growing your business."],
+  // 2. Platform logos heading
+  ["Hero", "Publish everywhere your customers already are", "Reach your customers across multiple social media platforms."],
+  // 4. Main features (heading: see HOME_HEADINGS)
+  ["Features Small", "Post everywhere in one go", "Publish across multiple channels"],
+  ["Features Small", "Create once, customise it for each platform, and publish to all of them together.",
+    "Create once, customise for each platform and publish across your connected social media channels."],
+  ["Features Small", "Calendar, done for you", "AI-powered content calendar"],
+  ["Features Small", "We plan a full calendar of posts for you. Approve them and they go live.",
+    "Get a personalised content plan for your business. Review, approve and let PostSynq publish it."],
+  ["Features Small", "Synq AI creates your posts", "Create content with Synq AI"],
+  // This description is two text lines in the design; the new copy keeps the split.
+  ["Features Small", "Tell Synq AI what you need, and it", "Share your ideas with Synq AI and let it"],
+  ["Features Small", "writes and designs the post for you.", "write and design social media content for your brand."],
+  // 5. Automation
+  ["Features Big", "automations", "AI-POWERED AUTOMATION"],
+  ["Features Big", "Your social media, on autopilot", "Let AI create, manage and publish your social media content."],
+  ["Features Big", "Vectorize & customise", "AI content creation"],
+  ["Features Big", "Turn any post into an editable vector, then change colours, text and layout.", "Generate and customise editable social media designs that match your brand."],
+  ["Features Big", "Made from your references", "Personalised brand content"],
+  ["Features Big", "Share your own photos and videos and get posts built around them.", "Turn your own photos, videos and references into engaging social media posts."],
+  ["Features Big", "Ready-made templates", "Ready-to-use templates"],
+  ["Features Big", "Carousels and posts already designed. Just add your details.", "Create professional posts and carousels without starting from scratch."],
+  ["Features Big", "You approve, we post", "Automated publishing"],
+  ["Features Big", "Nothing goes live until you say yes. Then it posts everywhere.", "Approve your content and let PostSynq publish across connected channels."],
+  // 6. Content planning (heading: see HOME_HEADINGS)
+  ["Features Big", "built for small businesses", "AI-POWERED CONTENT PLANNING"],
+  ["Features Big", "Business-stage plans", "Personalised content plans"],
+  ["Features Big", "Pick a plan made for aspirants, early-stage or growing brands.", "Get content plans tailored to your business stage and marketing goals."],
+  ["Features Big", "Your tone, your brand", "Consistent brand voice"],
+  ["Features Big", "Choose a tone once and every caption sounds like you.", "Set your brand preferences once and keep every post aligned with your identity."],
+  ["Features Big", "Synq AI agent", "Your Synq AI agent"],
+  ["Features Big", "Tell it what you need. It writes, designs and schedules.", "Let AI write, design, plan and schedule content for your business."],
+  ["Features Big", "Clear insights", "Actionable social insights"],
+  ["Features Big", "Know what works and post more of it.", "Understand what works and improve your social media content strategy."],
+  // 7. Business benefits (heading: see HOME_HEADINGS)
+  ["Integrations", "Connect your accounts once, then post to all of them in one go.",
+    "Connect your social media accounts once and manage your content and publishing from one platform."],
+  // 8. AI content demonstration
+  ["Features Detail", "Make social media simpler", "Turn your ideas into ready-to-publish social media content."],
+  ["Features Detail", "Share a photo, a video or an idea. Synq AI turns it into ready-to-post content.",
+    "Share a photo, video or idea. Synq AI creates branded designs, captions and content for your social media channels."],
+  // 9. Early access (heading: see HOME_HEADINGS)
+  ["Links", "Early access to every PostSynq feature. Choose where to start.",
+    "Join our first 100 users and explore how PostSynq simplifies your social media workflow."],
+  // 10. Onboarding
+  ["Features", "Get started in three simple steps", "Automate your social media in three simple steps."],
+  ["Features", "1. Sign up & log in", "1. Create your account"],
+  ["Features", "Create your account at postsynq.in, then log in to your PostSynq dashboard.", "Sign up and log in to your PostSynq dashboard."],
+  ["Features", "Link Instagram, Facebook, LinkedIn, X and Pinterest in a few clicks.", "Connect your supported social media accounts and set up your brand."],
+  ["Features", "Synq AI prepares your posts and calendar. Approve them and they go out everywhere.",
+    "Let Synq AI prepare your content. Review, approve and publish across connected channels."],
+  // 11. Final CTA
+  ["Banner", "Automate with PostSynq", "AUTOMATE YOUR SOCIAL MEDIA"],
+  ["Banner", "Be one of our first 100.", "Let PostSynq handle your social media."],
+]
+// Headings made of several text pieces (Framer's heading component, or lines split by <br>):
+// [section, original text, new text as the component's spans: [text] or [prefix, highlighted words, suffix]].
+// Line breaks (\n) follow the original design's two-line layout.
+const HOME_HEADINGS = [
+  ["Features Small", "Everything you need, all in one place", ["Manage your entire social media\nworkflow in ", "one place", "."]],
+  ["Features Big", "Made for your first year", ["Plan your social media\ncontent and stay consistent as you grow."]],
+  ["Integrations", "Less busywork, more real work", ["Spend less time posting and\nmore time growing your business."]],
+  ["Links", "Free for our first 100 users.", ["Get early access to AI-powered\nsocial media management."]],
+]
+// 3. The animated "Why PostSynQ" paragraph (scroll reveal).
+const HOME_STORY = ["Why PostSynQ",
+  "Most small businesses don’t struggle with their product. They struggle with posting, every platform wants its own version, ideas run out by Wednesday, and nobody knows what to post or when. So the page goes quiet and customers forget. We built PostSynQ to fix that.",
+  "Running a business is already a full-time job. Finding content ideas, designing posts, writing captions and managing multiple social media platforms takes time. Inconsistent posting makes it harder to stay visible and connect with customers. We built PostSynq to solve that."]
+
+function must(found, what) { if (!found || (Array.isArray(found) && !found.length)) throw new Error(`home: ${what} not found in the Framer page - update HOME_COPY in convert.mjs`); return found }
+const squash = s => s.replace(/\s+/g, " ").trim()
+/** Replace every text node whose text (whitespace-normalised) is `from` inside `scope`. */
+function swapText(scope, from, to) {
+  const out = []
+  const w = scope.ownerDocument.createTreeWalker(scope, 4)
+  let t
+  while ((t = w.nextNode())) if (squash(t.nodeValue) === from) { t.nodeValue = to; out.push(t.parentElement) }
+  return must(out, `text "${from}"`)
+}
+
+function prepHomeCopy(doc, key) {
+  if (key !== "home") return 0
+  const root = doc.querySelector("[data-framer-root]")
+  // Top-level sections only: inner layers can share a name ("Features Big" contains a "Features" layer).
+  const sec = name => must(root.querySelector(`:scope > [data-framer-name="${name}"]`), `section "${name}"`)
+  let n = 0
+  for (const [name, from, to] of HOME_COPY) n += swapText(sec(name), from, to).length
+  for (const [name, from, parts] of HOME_HEADINGS) {
+    // <br> line breaks count as spaces when matching.
+    const textOf = h => { const c = h.cloneNode(true); c.querySelectorAll("br").forEach(b => b.replaceWith(" ")); return squash(c.textContent) }
+    const hs = [...sec(name).querySelectorAll("h1,h2,h3,h4,h5,h6")].filter(h => textOf(h) === from)
+    for (const h of must(hs, `heading "${from}"`)) {
+      const spans = [...h.children].filter(c => c.localName === "span")
+      if (spans.length && parts.length === 3) {
+        // Heading component with a highlighted (underlined) phrase: keep the highlight markup.
+        must(spans.length === 3 && spans[1].firstElementChild, `highlighted heading "${from}"`)
+        spans[0].textContent = parts[0]; spans[1].firstElementChild.textContent = parts[1]; spans[2].textContent = parts[2]
+      } else if (spans.length) {
+        spans[0].textContent = parts.join(""); spans.slice(1).forEach(s => s.remove())
+      } else {
+        // Rich-text heading: keep its <br> line breaks, one new line of text per original line.
+        const lines = parts.join("").split("\n"), brs = [...h.querySelectorAll("br")]
+        must(lines.length === brs.length + 1, `line breaks of heading "${from}"`)
+        h.replaceChildren(...lines.flatMap((l, i) => (i < brs.length ? [doc.createTextNode(l), brs[i]] : [doc.createTextNode(l)])))
+      }
+      n++
+    }
+  }
+  // The paragraph is server-rendered one span per word (span > no-wrap span > one span per
+  // character, then a space); the full sentence is its aria-label. Rebuild the same
+  // structure from the first word span so the scroll-reveal animation is unchanged.
+  const stories = [...sec(HOME_STORY[0]).querySelectorAll("p[aria-label]")].filter(p => squash(p.getAttribute("aria-label")) === HOME_STORY[1])
+  for (const p of must(stories, "animated story paragraph")) {
+    const word = p.firstElementChild, group = word.firstElementChild, char = group.firstElementChild
+    const words = HOME_STORY[2].split(" ")
+    const spans = words.map((w, i) => {
+      const ws = word.cloneNode(false), g = group.cloneNode(false)
+      for (const ch of w) { const c = char.cloneNode(false); c.textContent = ch; g.append(c) }
+      ws.append(g)
+      if (i < words.length - 1) ws.append(" ")
+      return ws
+    })
+    p.replaceChildren(...spans)
+    p.setAttribute("aria-label", HOME_STORY[2])
+    n++
   }
   return n
 }
@@ -680,6 +823,9 @@ for (const [key, name] of Object.entries(PAGES)) {
   const doc = new JSDOM(html).window.document
   readAppear(doc)
   const filled = fillRuntime(doc, key)
+  // Homepage copy first, so the text animations below are built from the new words.
+  const copied = prepHomeCopy(doc, key)
+  if (copied) console.log(`${key}: ${copied} text replacements (HOME_COPY in convert.mjs)`)
   prepAppear(doc)
   const words = prepWordEffects(doc)
   if (words) console.log(`${key}: ${words} per-word text-effect spans`)
